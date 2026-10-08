@@ -1,0 +1,13 @@
+material_id,material_name,group,mass_g,source,status
+BOM01,Stainless steel,product,186,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced
+BOM02,Brass,product,20.25,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced
+BOM03,Copper,product,15,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced
+BOM04,Polypropylene (PP),product,350.25,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced
+BOM05,Polyvinyl chloride (PVC),product,43.5,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced
+BOM06,"Nylon, grade unspecified",product,49.5,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced
+BOM07,Polyoxymethylene (POM),product,9.75,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced
+BOM08,Polycarbonate (PC),product,6.75,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced
+BOM09,Acrylonitrile-butadiene-styrene (ABS),product,30,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced
+BOM10,Silicone,product,12,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced
+BOM11,LDPE packaging foil,packaging,6.3,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced
+BOM12,Cardboard packaging,packaging,131.5,data/kettle-bom.source.csv; user supplied 2026-10-08,sourced

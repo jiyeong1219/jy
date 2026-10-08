@@ -1,0 +1,20 @@
+test_bad_contributions (test_matrices.MatrixTests.test_bad_contributions) ... ok
+test_bad_dimension (test_matrices.MatrixTests.test_bad_dimension) ... ok
+test_contributions (test_matrices.MatrixTests.test_contributions) ... ok
+test_cycle (test_matrices.MatrixTests.test_cycle) ... ok
+test_missing_cf (test_matrices.MatrixTests.test_missing_cf) ... ok
+test_negative_activity (test_matrices.MatrixTests.test_negative_activity) ... ok
+test_nonfinite (test_matrices.MatrixTests.test_nonfinite) ... ok
+test_singular (test_matrices.MatrixTests.test_singular) ... ok
+test_three_operations (test_matrices.MatrixTests.test_three_operations) ... ok
+test_unresolved_provider (test_matrices.MatrixTests.test_unresolved_provider) ... ok
+test_incomplete (test_project.BomTests.test_incomplete) ... ok
+test_mass_and_conversion (test_project.BomTests.test_mass_and_conversion) ... ok
+test_nan (test_project.BomTests.test_nan) ... ok
+test_split (test_project.BomTests.test_split) ... ok
+test_total (test_project.BomTests.test_total) ... ok
+
+----------------------------------------------------------------------
+Ran 15 tests in 0.007s
+
+OK

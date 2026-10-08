@@ -1,0 +1,285 @@
+[
+  {
+    "material_id": "BOM01",
+    "dataset_id": "49f5324b-fc33-36e9-b5af-3c80d73492bd",
+    "reference_amount": "1.0",
+    "reference_unit": "kg",
+    "elementary_exchange_count": 616,
+    "unlinked_product_inputs": [
+      {
+        "flow": {
+          "@type": "Flow",
+          "@id": "090df302-0f79-3b9d-ba80-f65ff27fd97a",
+          "name": "Ferromanganese, at furnace",
+          "category": "Technosphere flows/CUTOFF Flows",
+          "flowType": "PRODUCT_FLOW",
+          "refUnit": "kg"
+        },
+        "amount": 1.07359788601795e-17,
+        "unit": {
+          "@type": "Unit",
+          "@id": "20aadc24-a391-41cf-b340-3e4529f44bde",
+          "name": "kg"
+        }
+      }
+    ],
+    "cutoff_policy": "Not approved: unlinked or CUTOFF flows are not automatically zero",
+    "allocation_metadata": "NO_ALLOCATION",
+    "allocation_documentation": "",
+    "sources": [
+      {
+        "@type": "Source",
+        "@id": "b09446dc-177e-3ab0-9bbe-f0d19ead3b83",
+        "name": "PE INTERNATIONAL AG "
+      },
+      {
+        "@type": "Source",
+        "@id": "d626158b-6442-3e82-bf8d-c7a32b380649",
+        "name": "PE INTERNATIONAL AG "
+      },
+      {
+        "@type": "Source",
+        "@id": "52b0f19c-e7ef-31fc-846f-840a9ac8b13f",
+        "name": "PE INTERNATIONAL AG "
+      }
+    ]
+  },
+  {
+    "material_id": "BOM03",
+    "dataset_id": "084b5b59-c7f8-4eb3-ae1a-5ebc1ab64a08",
+    "reference_exchanges": [
+      {
+        "exchange_id": "24",
+        "direction": "Output",
+        "amount": "1000.0",
+        "requested_flow_version": "",
+        "flow_id": "176d7abf-4f6c-4584-a720-f9a518ce7d2d",
+        "flow_version": "00.01.05",
+        "name": "Refined copper",
+        "flow_type": "Product flow",
+        "reference_unit": "kg",
+        "categories": [
+          "Materials production",
+          "Metals and semimetals"
+        ],
+        "flow_property_id": "93a60a56-a3c8-11da-a746-0800200b9a66",
+        "unit_group_id": "93a60a57-a4c8-11da-a746-0800200c9a66"
+      }
+    ],
+    "flow_resolution_issues": [],
+    "sources": [
+      {
+        "type": "source data set",
+        "refObjectId": "#REF!",
+        "uri": "../sources/#REF!.xml"
+      }
+    ],
+    "supplier_links": "ILCD product flow references do not identify providers"
+  },
+  {
+    "material_id": "BOM04",
+    "dataset_id": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+    "reference_amount": "1.0",
+    "reference_unit": "kg",
+    "elementary_exchange_count": 20,
+    "unlinked_product_inputs": [
+      {
+        "flow": {
+          "@type": "Flow",
+          "@id": "bc8e6793-7071-3c12-bac4-bb5adcb44f79",
+          "name": "Nitrogen, liquid, at plant",
+          "category": "Technosphere flows/CUTOFF Flows",
+          "flowType": "PRODUCT_FLOW",
+          "refUnit": "kg"
+        },
+        "amount": 0.064,
+        "unit": {
+          "@type": "Unit",
+          "@id": "20aadc24-a391-41cf-b340-3e4529f44bde",
+          "name": "kg"
+        }
+      }
+    ],
+    "cutoff_policy": "Not approved: unlinked or CUTOFF flows are not automatically zero",
+    "allocation_metadata": "NO_ALLOCATION",
+    "allocation_documentation": "LCI data for the production of PP resin were collected from three producers in North America – all in the United States. Two companies provided data for the year 2015, and one company provided data for the year 2016. After reviewing individual company data in comparison to the average, each manufacturer verified data from 2015-2016 was representative of an average year for PP resin production at their company. Mass allocation was used to allocate all inputs and outputs to each product and co-products. ",
+    "sources": [
+      {
+        "@type": "Source",
+        "@id": "8c908f61-4d5f-4fcc-a286-876c48255686",
+        "name": "American Chemistry Council, 2021, Polypropylene"
+      }
+    ]
+  },
+  {
+    "material_id": "BOM05",
+    "dataset_id": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "reference_amount": "1.0",
+    "reference_unit": "kg",
+    "elementary_exchange_count": 60,
+    "unlinked_product_inputs": [
+      {
+        "flow": {
+          "@type": "Flow",
+          "@id": "61014614-30bd-354a-bffb-522a9e09fdb6",
+          "name": "Hydrogen peroxide, at plant",
+          "category": "Technosphere flows/CUTOFF Flows",
+          "flowType": "PRODUCT_FLOW",
+          "refUnit": "kg"
+        },
+        "amount": 0.000275,
+        "unit": {
+          "@type": "Unit",
+          "@id": "20aadc24-a391-41cf-b340-3e4529f44bde",
+          "name": "kg"
+        }
+      },
+      {
+        "flow": {
+          "@type": "Flow",
+          "@id": "850b28a6-1206-3297-8bc0-b5f656b83a96",
+          "name": "Polyvinyl Acetate",
+          "category": "Technosphere flows/CUTOFF Flows",
+          "flowType": "PRODUCT_FLOW",
+          "refUnit": "kg"
+        },
+        "amount": 0.000337,
+        "unit": {
+          "@type": "Unit",
+          "@id": "20aadc24-a391-41cf-b340-3e4529f44bde",
+          "name": "kg"
+        }
+      }
+    ],
+    "cutoff_policy": "Not approved: unlinked or CUTOFF flows are not automatically zero",
+    "allocation_metadata": "NO_ALLOCATION",
+    "allocation_documentation": "Data was collected from four manufacturers which represent 100% of the S-PVC resin produced in the US in 2022. A total of ten facilities provided their data for 2022 and the LCI was developed using mass allocation. Data was reviewed and verified by each of the four companies. When a material is not obtainable in the available LCI databases, another chemical which has similar manufacturing and environmental impacts may be used as a proxy to represent the actual chemical. The Proxy Chemical List used in this analysis is provided in the Data Quality tables in Appendix B. The cogeneration process is similar across the S-PVC plants to produce S-PVC resin. The cogeneration process produces 50% electricity and 50% steam. Emissions to water and air were considered within the scope of this study and were accounted for based off of quantities in annual emissions reporting from each company. Data validation was performed through mass balances.",
+    "sources": [
+      {
+        "@type": "Source",
+        "@id": "a6b86fbc-a331-43f9-bdaf-2ca14c3831ca",
+        "name": "Sustainable Solutions Corporation (2024) Suspension Grade PVC Resin Life Cycle Assessment"
+      }
+    ]
+  },
+  {
+    "material_id": "BOM09",
+    "dataset_id": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "reference_amount": "1.0",
+    "reference_unit": "kg",
+    "elementary_exchange_count": 46,
+    "unlinked_product_inputs": [],
+    "cutoff_policy": "Not approved: unlinked or CUTOFF flows are not automatically zero",
+    "allocation_metadata": "NO_ALLOCATION",
+    "allocation_documentation": "Primary data were used to model the production of ABS. All data received were carefully evaluated before compiling the production-weighted average data sets used to generate results.",
+    "sources": [
+      {
+        "@type": "Source",
+        "@id": "fb5e258c-aee8-4c18-af99-fd993391a0b0",
+        "name": "American Chemistry Council, 2022, ABS"
+      }
+    ]
+  },
+  {
+    "material_id": "BOM11",
+    "dataset_id": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+    "reference_amount": "1.0",
+    "reference_unit": "kg",
+    "elementary_exchange_count": 37,
+    "unlinked_product_inputs": [
+      {
+        "flow": {
+          "@type": "Flow",
+          "@id": "bc8e6793-7071-3c12-bac4-bb5adcb44f79",
+          "name": "Nitrogen, liquid, at plant",
+          "category": "Technosphere flows/CUTOFF Flows",
+          "flowType": "PRODUCT_FLOW",
+          "refUnit": "kg"
+        },
+        "amount": 0.0101,
+        "unit": {
+          "@type": "Unit",
+          "@id": "20aadc24-a391-41cf-b340-3e4529f44bde",
+          "name": "kg"
+        }
+      }
+    ],
+    "cutoff_policy": "Not approved: unlinked or CUTOFF flows are not automatically zero",
+    "allocation_metadata": "NO_ALLOCATION",
+    "allocation_documentation": "LCI data for the production of LDPE resin were collected from four producers (six plants) in North America – all in the United States. Two companies provided data for the year 2015, and two companies provided data for the year 2016. After reviewing individual company data in comparison to the average, each manufacturer verified data from 2015-2016 was representative of an average year for LDPE resin production at their company. Mass allocation was used to allocate all inputs and outputs to each product and co-products. For steam used in other processes, this was treated as an avoided fuel product and were given credits based on the fuel required to create the steam that it would replace.",
+    "sources": [
+      {
+        "@type": "Source",
+        "@id": "bd5a4c58-b1e8-47ac-9c60-782916934117",
+        "name": "Franklin Associates (2019) Cradle-to-Resin LCA PET for NAPCOR"
+      }
+    ]
+  },
+  {
+    "material_id": "BOM12",
+    "dataset_id": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+    "reference_amount": "1.0",
+    "reference_unit": "kg",
+    "elementary_exchange_count": 24,
+    "unlinked_product_inputs": [
+      {
+        "flow": {
+          "@type": "Flow",
+          "@id": "30f21ee9-1057-3485-8548-8d7c4abd799a",
+          "name": "Maize starch, at plant",
+          "category": "Technosphere flows/CUTOFF Flows",
+          "flowType": "PRODUCT_FLOW",
+          "refUnit": "kg"
+        },
+        "amount": 0.019070819,
+        "unit": {
+          "@type": "Unit",
+          "@id": "20aadc24-a391-41cf-b340-3e4529f44bde",
+          "name": "kg"
+        }
+      },
+      {
+        "flow": {
+          "@type": "Flow",
+          "@id": "93ccefc4-7a92-358d-a7ef-5cda90b4657b",
+          "name": "Adhesives and binders, at plant",
+          "category": "Technosphere flows/CUTOFF Flows",
+          "flowType": "PRODUCT_FLOW",
+          "refUnit": "kg"
+        },
+        "amount": 0.001608429,
+        "unit": {
+          "@type": "Unit",
+          "@id": "20aadc24-a391-41cf-b340-3e4529f44bde",
+          "name": "kg"
+        }
+      },
+      {
+        "flow": {
+          "@type": "Flow",
+          "@id": "b86265c2-5978-3ba1-92ec-e7e0d862bc25",
+          "name": "Coating powder, at plant",
+          "category": "Technosphere flows/CUTOFF Flows",
+          "flowType": "PRODUCT_FLOW",
+          "refUnit": "kg"
+        },
+        "amount": 0.000513365,
+        "unit": {
+          "@type": "Unit",
+          "@id": "20aadc24-a391-41cf-b340-3e4529f44bde",
+          "name": "kg"
+        }
+      }
+    ],
+    "cutoff_policy": "Not approved: unlinked or CUTOFF flows are not automatically zero",
+    "allocation_metadata": "NO_ALLOCATION",
+    "allocation_documentation": "This process is generated per survey data on energy and material inputs, production, and environmental releases from 166 converting facilities (128 corrugator plants, 31 sheet plants, and 7 sheet-feeder plants) representing 23% of overal production volume for 2014.",
+    "sources": [
+      {
+        "@type": "Source",
+        "@id": "3f572a02-a88d-4a6e-a6cf-e06f4bcbf8e3",
+        "name": "NCASI (2017) LCA Average Corrugated Product"
+      }
+    ]
+  }
+]

@@ -1,0 +1,59 @@
+{
+  "date": "2026-10-08",
+  "os": "Linux-6.18.44-x86_64-with-glibc2.41",
+  "python": "3.12.14",
+  "numpy": "2.3.5",
+  "scipy": "1.17.0",
+  "node": "v24.19.0",
+  "cli": "0.1.27",
+  "cli_auth": "login-required (exit 1)",
+  "data_checks": {
+    "process_catalog.csv": {
+      "count": 4132,
+      "reference_unit_resolved": 3931
+    },
+    "uslci_jsonld_catalog.csv": {
+      "count": 962,
+      "reference_unit_resolved": 962
+    },
+    "uslci_ilcd_catalog.csv": {
+      "count": 758,
+      "reference_unit_resolved": 751
+    }
+  },
+  "tests": {
+    "executed": 15,
+    "passed": 15,
+    "failed": 0,
+    "fixture_kind": "synthetic; no kettle impact validation"
+  },
+  "repeatability_checks": [
+    {
+      "command": [
+        "scripts/workflow.py",
+        "fetch"
+      ],
+      "exit_code": 0,
+      "output": "Verified archive commit c50cab7961e0b0ca11c26a600bd4c90fea6c6c32"
+    },
+    {
+      "command": [
+        "scripts/uslci.py",
+        "fetch"
+      ],
+      "exit_code": 0,
+      "output": "Verified JSON-LD 1.2025-06.0: /workspace/jy/data/raw/uslci/uslci_fy25_q2_01_olca2_4_1_elci_lib_json_ld.zip\nVerified ILCD FY19.Q2.01: /workspace/jy/data/raw/uslci/uslcy_fy19_q2_01_olca1_8_0_ilcd.zip.zip"
+    },
+    {
+      "command": [
+        "scripts/match_bom.py",
+        "--tiangong-archive",
+        "data/raw/tiangong/tiangong_lca_data",
+        "--uslci-package",
+        "data/raw/uslci/uslci_fy25_q2_01_olca2_4_1_elci_lib_json_ld.zip"
+      ],
+      "exit_code": 0,
+      "output": "Retrieved inventory for 7 of 12 material candidates; no matches approved for calculation"
+    }
+  ]
+}

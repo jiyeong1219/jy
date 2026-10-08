@@ -1,0 +1,15 @@
+parameter,value,unit,source,status
+declared unit,1,packaged kettle,user request,sourced
+product finished mass,723,g,user BOM / README requirements,sourced
+packaging finished mass,137.8,g,user BOM,sourced
+material mass conversion,0.001,kg/g,SI definition,sourced
+factory geography,unknown,location,not provided,missing
+reference year,unknown,year,not provided,missing
+stainless/brass/nylon grades,unknown,grade,not provided,missing
+purchase-to-finished yields,unknown,fraction,not provided,missing
+forming/drawing/molding service quantities,unknown,service reference units,not provided,missing
+LDPE foil conversion,unknown,kg film,not provided,missing
+assembly electricity,unknown,kWh/kettle,not provided,missing
+factory transport,unknown,t*km/kettle,not provided,missing
+scrap generation and treatment,unknown,kg/kettle,not provided,missing
+prices,unknown,currency/reference year,not provided,missing

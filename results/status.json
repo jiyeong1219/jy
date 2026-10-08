@@ -1,0 +1,31 @@
+{
+  "run_id": "bc1-access-assessment-2026-10-08",
+  "status": "blocked",
+  "declared_unit": "One manufactured and packaged BC1 1 L plastic kettle",
+  "gwp100_kg_co2_eq": null,
+  "material_contributions": null,
+  "top_three_contributors": null,
+  "uncertainty": "not calculated",
+  "checks": {
+    "bom": "passed",
+    "supplier_closure": "not run",
+    "characterization_coverage": "not run",
+    "matrix_residual": "not run",
+    "contribution_reconciliation": "not run",
+    "double_counting": "not run"
+  },
+  "blockers": [
+    "Missing suitable processes: Brass, Nylon, grade unspecified, Polyoxymethylene (POM), Polycarbonate (PC), Silicone",
+    "Manufacturing yields, conversion services and assembly electricity not supplied",
+    "Seven retrieved candidate inventories require matching/proxy review and full upstream supplier closure",
+    "Characterization method provenance/version discrepancy and cross-database flow mapping require review"
+  ],
+  "verified_inputs": {
+    "bom_material_count": 12,
+    "product_mass_g": 723,
+    "packaging_mass_g": 137.8,
+    "total_mass_g": 860.8,
+    "retrieved_material_candidate_inventories": 7
+  },
+  "note": "Synthetic algorithm tests are not a kettle calculation."
+}

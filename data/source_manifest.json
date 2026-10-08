@@ -1,0 +1,66 @@
+{
+  "retrieved_date": "2026-10-08",
+  "repositories": {
+    "data": {
+      "url": "https://github.com/tiangong-lca/data",
+      "commit": "c50cab7961e0b0ca11c26a600bd4c90fea6c6c32"
+    },
+    "database": {
+      "url": "https://github.com/tiangong-lca/database",
+      "commit": "4626b013d315a527f61092dd7bed805c0cb69cd9"
+    },
+    "cli": {
+      "url": "https://github.com/tiangong-lca/cli",
+      "commit": "cf321a2c96a3e9c1ecac10d87b526eba0c1cafce"
+    },
+    "mcp": {
+      "url": "https://github.com/tiangong-lca/mcp",
+      "commit": "e90d0eaff0799a3a8a4925ed80ebe9ec0b8cff0b"
+    },
+    "docs": {
+      "url": "https://github.com/tiangong-lca/docs",
+      "commit": "063a38f40b609727100f49fc5528d65ec13ab91f"
+    }
+  },
+  "historical_release_label": "0.2.0",
+  "counts": {
+    "processes": 4132,
+    "flows": 96820,
+    "lciamethods": 25,
+    "flowproperties": 269,
+    "unitgroups": 54
+  },
+  "note": "Historical release label is not a current platform database version. Cite commit and individual dataset version.",
+  "uslci": {
+    "repository": "https://github.com/FLCAC-admin/uslci-content",
+    "branch": "dev",
+    "commit": "83f722d2c97ca784e3d258ab51ec4f6804625c1f",
+    "download_guide": "https://github.com/FLCAC-admin/uslci-content/blob/dev/docs/release_info/release-downloads.md",
+    "archives": [
+      {
+        "format": "JSON-LD",
+        "release": "1.2025-06.0",
+        "path": "uslci_fy25_q2_01_olca2_4_1_elci_lib_json_ld.zip",
+        "url": "https://raw.githubusercontent.com/FLCAC-admin/uslci-content/83f722d2c97ca784e3d258ab51ec4f6804625c1f/downloads/uslci_fy25_q2_01_olca2_4_1_elci_lib_json_ld.zip",
+        "sha256": "55437502fc33d193236d50fd87a361880beea82a27139d1803be38ae0f0934b0",
+        "byte_size": 23006824,
+        "retrieved_date": "2026-10-08"
+      },
+      {
+        "format": "ILCD",
+        "release": "FY19.Q2.01",
+        "path": "uslcy_fy19_q2_01_olca1_8_0_ilcd.zip.zip",
+        "url": "https://raw.githubusercontent.com/FLCAC-admin/uslci-content/83f722d2c97ca784e3d258ab51ec4f6804625c1f/downloads/uslcy_fy19_q2_01_olca1_8_0_ilcd.zip.zip",
+        "sha256": "a6273f7d40ad63cb327770a908ece9b5f8d8891fd804f1aa5749f312e492e96a",
+        "byte_size": 13054702,
+        "retrieved_date": "2026-10-08"
+      }
+    ]
+  },
+  "bom": {
+    "path": "data/kettle-bom.source.csv",
+    "source": "user-supplied kettle-bom.csv",
+    "retrieved_date": "2026-10-08",
+    "sha256": "89b76fbf59a6ab1f3c5825cc6052556b15e1d3e8ea7739121ccb656d00b68f13"
+  }
+}
