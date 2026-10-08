@@ -1,0 +1,5240 @@
+[
+  {
+    "consumer": "49f5324b-fc33-36e9-b5af-3c80d73492bd",
+    "provider": "34897ebd-aa3d-347c-91ee-876c3f835fdb",
+    "amount_per_reference": 0.535723425711305,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+    "provider": "ee8077d4-d28c-46c4-9f15-5b22bce6063d",
+    "amount_per_reference": 0.0027,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.038,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.14000000000000004,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+    "provider": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "amount_per_reference": 1.014,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.16000000000000003,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.034,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.03249,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.05009228,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.10341632,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "45b70b50-20a0-341b-8e2f-c196974d1541",
+    "amount_per_reference": 1.94e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.315,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.00161588,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.000973,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "1e2429d8-8d91-328f-85c3-18d39bdebfa7",
+    "amount_per_reference": 9.38e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0329,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.002388,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "amount_per_reference": 1.06e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "amount_per_reference": 0.002928,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.00248,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.00646352,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.0533,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "13abc978-777f-4929-9990-4f53976d032f",
+    "amount_per_reference": 0.225,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "1e2429d8-8d91-328f-85c3-18d39bdebfa7",
+    "amount_per_reference": 0.45,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.08,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.66,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 2.4e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.503,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 2.7e-08,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "amount_per_reference": 8.8e-08,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "fa60e60f-73f0-3e20-bb3a-073e4a9469cc",
+    "amount_per_reference": 0.156,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.092,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "e2884390-2613-3d46-81d2-6051ecadc9c2",
+    "amount_per_reference": 0.576,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 4e-08,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.6800000000000002,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.27,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.028,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 3.4e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+    "provider": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "amount_per_reference": 1.003,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.00021,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.058,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.013600000000000001,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.44513854,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+    "provider": "c245a252-0860-41d2-9789-802bab7984ab",
+    "amount_per_reference": 1.101579866,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.00266047,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.000550835,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.00203,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 2.56e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+    "provider": "1e4fd434-9cd2-402a-8ebf-43891d0dd591",
+    "amount_per_reference": 0.002407243,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.306533391,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "provider": "317adcbc-b3e3-3ec3-80c3-82b18d0f3207",
+    "amount_per_reference": 0.44186,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0029866,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.46079,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.055949,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ee8077d4-d28c-46c4-9f15-5b22bce6063d",
+    "provider": "8dcef86f-cf2c-4207-91aa-1398401fe8b7",
+    "amount_per_reference": 0.51,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ee8077d4-d28c-46c4-9f15-5b22bce6063d",
+    "provider": "7bfdfa88-b857-4a4a-bbb9-3f51ddc15d30",
+    "amount_per_reference": 0.49,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "provider": "b355f122-dc4e-4224-aafa-d43c3b57db7b",
+    "amount_per_reference": 0.0121378329004437,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.1875,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "29d771d7-71ec-3a22-bbd0-8709d5a328e2",
+    "amount_per_reference": 0.113,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.045,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.0028,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "70d2004a-9f80-48ce-a86c-50e85dd6a637",
+    "amount_per_reference": 0.14,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "d3db6ab2-33de-453b-ac74-0567ba7fa95b",
+    "amount_per_reference": 0.16,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.079,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.031000000000000003,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "3ca7a144-e2f3-4963-8c63-768cf0853cee",
+    "amount_per_reference": 0.027,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.023,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.002,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "a8b6bb7c-0274-41de-8385-ef5f8a03f9bf",
+    "amount_per_reference": 0.87,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.868,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "provider": "b355f122-dc4e-4224-aafa-d43c3b57db7b",
+    "amount_per_reference": 0.014,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 1.186,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.1985,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.011858,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.006482,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.000944,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "0d4adbb3-81bb-45c5-bf26-734c76ff3108",
+    "amount_per_reference": 0.035,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "49e563d8-0cea-3f97-96b8-15787be48b91",
+    "amount_per_reference": 0.00258,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.06677882805555556,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.143571585,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.00524,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "7a2565f8-4a48-3263-9bc9-bcb28dbd58ad",
+    "amount_per_reference": 0.153,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "amount_per_reference": 0.448,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.08852077194444445,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.00148,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.5208,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 6.09e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.00781,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0168,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.09100106113926654,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "e0368d96-44a3-3628-8220-e6ae975b0931",
+    "amount_per_reference": 0.0004493536868352876,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "0d4adbb3-81bb-45c5-bf26-734c76ff3108",
+    "amount_per_reference": 0.08370635014854001,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "86f13a15-a773-4945-8b1a-46158a77d131",
+    "amount_per_reference": 0.0008696560332984352,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "amount_per_reference": 0.00011351348032755478,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.021361498866195237,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 1.8635749953787957,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "2a78de43-fdf2-4c5f-b527-89db6568ace8",
+    "amount_per_reference": 2.135204628189653e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "5dacfb93-571f-3502-bf9e-1ce678de151d",
+    "amount_per_reference": 1.878570341137303,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "amount_per_reference": 0.007647000925014162,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.0024044347929054635,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 1.1651084483625447,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "provider": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "amount_per_reference": 1.1272007184697832e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1e2429d8-8d91-328f-85c3-18d39bdebfa7",
+    "provider": "f85fcdde-6c6b-3bbb-8efc-de6cb34c9ac7",
+    "amount_per_reference": 0.8,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1e2429d8-8d91-328f-85c3-18d39bdebfa7",
+    "provider": "da0f5501-f4ab-32d1-80b7-b70d143608f6",
+    "amount_per_reference": 0.2,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "provider": "da0f5501-f4ab-32d1-80b7-b70d143608f6",
+    "amount_per_reference": 0.161521074,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.06613756613756612,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.21557382,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0014123802,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.14123802,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "provider": "f85fcdde-6c6b-3bbb-8efc-de6cb34c9ac7",
+    "amount_per_reference": 1.453689666,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "provider": "dfa7acbc-4a41-3329-951d-b6cde899c91e",
+    "amount_per_reference": 0.33,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.025698948,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "provider": "eaff3c91-b8ce-38a1-a3ba-1fe0c9d4041c",
+    "amount_per_reference": 0.22,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.78,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13abc978-777f-4929-9990-4f53976d032f",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.038,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13abc978-777f-4929-9990-4f53976d032f",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 0.019,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13abc978-777f-4929-9990-4f53976d032f",
+    "provider": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "amount_per_reference": 0.456,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13abc978-777f-4929-9990-4f53976d032f",
+    "provider": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "amount_per_reference": 1.116,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13abc978-777f-4929-9990-4f53976d032f",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.111,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "13abc978-777f-4929-9990-4f53976d032f",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.001,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0149,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.041307,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.028425,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.0052453,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0033554,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.0052453,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0033554,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.028425,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.041307,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa60e60f-73f0-3e20-bb3a-073e4a9469cc",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.14545491,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa60e60f-73f0-3e20-bb3a-073e4a9469cc",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.31029565,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa60e60f-73f0-3e20-bb3a-073e4a9469cc",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.31029565,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa60e60f-73f0-3e20-bb3a-073e4a9469cc",
+    "provider": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "amount_per_reference": 1.003,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa60e60f-73f0-3e20-bb3a-073e4a9469cc",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.14545491,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa60e60f-73f0-3e20-bb3a-073e4a9469cc",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.14698215,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e2884390-2613-3d46-81d2-6051ecadc9c2",
+    "provider": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "amount_per_reference": 0.781,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e2884390-2613-3d46-81d2-6051ecadc9c2",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.013,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e2884390-2613-3d46-81d2-6051ecadc9c2",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.0165,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e2884390-2613-3d46-81d2-6051ecadc9c2",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.401,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e2884390-2613-3d46-81d2-6051ecadc9c2",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.166,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "e2884390-2613-3d46-81d2-6051ecadc9c2",
+    "provider": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "amount_per_reference": 0.288,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.0052453,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.028425,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0033554,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.041307,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "70d2004a-9f80-48ce-a86c-50e85dd6a637",
+    "amount_per_reference": 0.1,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.0031,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "ee8077d4-d28c-46c4-9f15-5b22bce6063d",
+    "amount_per_reference": 0.15,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.052,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "3ca7a144-e2f3-4963-8c63-768cf0853cee",
+    "amount_per_reference": 0.019,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "ee8077d4-d28c-46c4-9f15-5b22bce6063d",
+    "amount_per_reference": 0.9,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.826,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.002,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.028,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "29d771d7-71ec-3a22-bbd0-8709d5a328e2",
+    "amount_per_reference": 0.116,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.027,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.083,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "1e4fd434-9cd2-402a-8ebf-43891d0dd591",
+    "amount_per_reference": 0.7015211714987134,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "515c5359-a186-3394-b849-8676652228db",
+    "amount_per_reference": 0.012838266948967855,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "5dd973e3-0fc2-38d8-a25b-51b82ee2c2de",
+    "amount_per_reference": 0.006390329502223149,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "amount_per_reference": 0.010589260612718301,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.014994662266435303,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 7.392594269172247e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "a69b6a20-acd3-489b-b3e1-bb7ef0615618",
+    "amount_per_reference": 0.0024199489943569894,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.16565559955491335,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 1.0405732447427277e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.006954200761162137,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "da0f5501-f4ab-32d1-80b7-b70d143608f6",
+    "amount_per_reference": 0.0019224002546527042,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 9.953309297539135e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "ce587724-1be4-3da0-b7a2-988592c28b9a",
+    "amount_per_reference": 0.04304964890742027,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.008139436308081598,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "317adcbc-b3e3-3ec3-80c3-82b18d0f3207",
+    "amount_per_reference": 0.035101901573407375,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "6ce2af92-11dd-3e96-8f77-4d215ac13b96",
+    "amount_per_reference": 0.0006391852358545672,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.5956689233261929,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.4016169171564241,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "amount_per_reference": 0.000654264499440339,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "ce587724-1be4-3da0-b7a2-988592c28b9a",
+    "amount_per_reference": 0.05072286406438843,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "4cb0c558-b0ac-3656-bc1f-95b477c14921",
+    "amount_per_reference": 0.003294724537052809,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0008877238429763794,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "c245a252-0860-41d2-9789-802bab7984ab",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.0023706973054138667,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.0095933,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "4eaec911-05e8-304e-b7a6-98ce06fc9820",
+    "amount_per_reference": 0.01818936358279835,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.13473602653924702,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 2.330140694266978,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "e53e0de4-6c90-3519-850b-eb670f2c641b",
+    "amount_per_reference": 3.7805343917188723,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.06340518895964566,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.5746095249467887,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 0.0007133083757960137,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "amount_per_reference": 0.005508325790869216,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.2171627721867864,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "64c379de-b24a-36d0-9170-d61d9d9d7278",
+    "amount_per_reference": 0.012601781305729575,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "da0f5501-f4ab-32d1-80b7-b70d143608f6",
+    "amount_per_reference": 12.27682971231139,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "f3929bea-4d5f-4691-9aef-aa95392ba015",
+    "amount_per_reference": 1.6643862101906982e-05,
+    "decision": "unique exact reference-flow provider assumption"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "ee8077d4-d28c-46c4-9f15-5b22bce6063d",
+    "amount_per_reference": 0.01870453074309547,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.08282302807853714,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.0001545501480891363,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1e4fd434-9cd2-402a-8ebf-43891d0dd591",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 0.0274,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1e4fd434-9cd2-402a-8ebf-43891d0dd591",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 5.6634e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1e4fd434-9cd2-402a-8ebf-43891d0dd591",
+    "provider": "1b0f75b8-e749-3eb2-8727-de6a22f60646",
+    "amount_per_reference": 0.0125,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1e4fd434-9cd2-402a-8ebf-43891d0dd591",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.00047696166,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1e4fd434-9cd2-402a-8ebf-43891d0dd591",
+    "provider": "3455f918-4a43-3b09-b06e-7402c12b8d45",
+    "amount_per_reference": 0.00108,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "317adcbc-b3e3-3ec3-80c3-82b18d0f3207",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 0.000836,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "317adcbc-b3e3-3ec3-80c3-82b18d0f3207",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 0.0088,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "317adcbc-b3e3-3ec3-80c3-82b18d0f3207",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 0.000431,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "317adcbc-b3e3-3ec3-80c3-82b18d0f3207",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.000162,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "317adcbc-b3e3-3ec3-80c3-82b18d0f3207",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.00087,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "317adcbc-b3e3-3ec3-80c3-82b18d0f3207",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0387,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "8dcef86f-cf2c-4207-91aa-1398401fe8b7",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.01068888888888889,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "8dcef86f-cf2c-4207-91aa-1398401fe8b7",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 0.000332,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8dcef86f-cf2c-4207-91aa-1398401fe8b7",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.000680109,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8dcef86f-cf2c-4207-91aa-1398401fe8b7",
+    "provider": "058ef703-9452-44a8-84e6-d14551e61713",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7bfdfa88-b857-4a4a-bbb9-3f51ddc15d30",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.010694444444444444,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "7bfdfa88-b857-4a4a-bbb9-3f51ddc15d30",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 0.000332,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7bfdfa88-b857-4a4a-bbb9-3f51ddc15d30",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.000680109,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7bfdfa88-b857-4a4a-bbb9-3f51ddc15d30",
+    "provider": "058ef703-9452-44a8-84e6-d14551e61713",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "b355f122-dc4e-4224-aafa-d43c3b57db7b",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 1.186,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "b355f122-dc4e-4224-aafa-d43c3b57db7b",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.1985,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "b355f122-dc4e-4224-aafa-d43c3b57db7b",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.011858,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "29d771d7-71ec-3a22-bbd0-8709d5a328e2",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 1.186,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "29d771d7-71ec-3a22-bbd0-8709d5a328e2",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.011858,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "29d771d7-71ec-3a22-bbd0-8709d5a328e2",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.1985,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9d9b6815-9349-30af-869b-57362428c42e",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.0052453,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9d9b6815-9349-30af-869b-57362428c42e",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.028425,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9d9b6815-9349-30af-869b-57362428c42e",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9d9b6815-9349-30af-869b-57362428c42e",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0033554,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d3db6ab2-33de-453b-ac74-0567ba7fa95b",
+    "provider": "ee8077d4-d28c-46c4-9f15-5b22bce6063d",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a8b6bb7c-0274-41de-8385-ef5f8a03f9bf",
+    "provider": "ee8077d4-d28c-46c4-9f15-5b22bce6063d",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d4adbb3-81bb-45c5-bf26-734c76ff3108",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.046,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d4adbb3-81bb-45c5-bf26-734c76ff3108",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 1.05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d4adbb3-81bb-45c5-bf26-734c76ff3108",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.003,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d4adbb3-81bb-45c5-bf26-734c76ff3108",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.176,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "0d4adbb3-81bb-45c5-bf26-734c76ff3108",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.053,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d4adbb3-81bb-45c5-bf26-734c76ff3108",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.065,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49e563d8-0cea-3f97-96b8-15787be48b91",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.00014,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49e563d8-0cea-3f97-96b8-15787be48b91",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 0.000584,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49e563d8-0cea-3f97-96b8-15787be48b91",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 3.58e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "49e563d8-0cea-3f97-96b8-15787be48b91",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.004230000000000001,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "49e563d8-0cea-3f97-96b8-15787be48b91",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 5.11e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7a2565f8-4a48-3263-9bc9-bcb28dbd58ad",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.138007054673721,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.04408166688633014,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+    "amount_per_reference": 0.0006413055199434467,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "a591c53f-ce67-41da-b0c1-65b6d91a1a43",
+    "amount_per_reference": 0.00011304321779034519,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "1e2429d8-8d91-328f-85c3-18d39bdebfa7",
+    "amount_per_reference": 0.010355735013958617,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.04670564694887432,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "1dbafde2-2bc3-405c-9726-4d92fe7d29f9",
+    "amount_per_reference": 5.4891506212482475e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.012989300391799762,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "amount_per_reference": 0.008369537867986245,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "85cc9ce7-c801-36bd-ac92-2bb7bf7b5209",
+    "amount_per_reference": 13.233725931872371,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.001902205820682714,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.12958148117084628,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.09968727908843651,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0013357136866320796,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.0034810270665340697,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.17738824121445945,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.004478139490300859,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.2746432465462911,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.11951690010903296,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.0011072956231054025,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "c245a252-0860-41d2-9789-802bab7984ab",
+    "amount_per_reference": 0.005048945016235128,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.6892201147841507,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.20632391176717269,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "provider": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "amount_per_reference": 0.0001630462132013755,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2a78de43-fdf2-4c5f-b527-89db6568ace8",
+    "provider": "7a2565f8-4a48-3263-9bc9-bcb28dbd58ad",
+    "amount_per_reference": 0.56,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2a78de43-fdf2-4c5f-b527-89db6568ace8",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.15000000000000002,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "2a78de43-fdf2-4c5f-b527-89db6568ace8",
+    "provider": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "amount_per_reference": 0.59,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2a78de43-fdf2-4c5f-b527-89db6568ace8",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0218,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2a78de43-fdf2-4c5f-b527-89db6568ace8",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.146,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2a78de43-fdf2-4c5f-b527-89db6568ace8",
+    "provider": "f8513ce4-7415-4495-9d10-5957ab21af04",
+    "amount_per_reference": 0.24000000000000002,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2a78de43-fdf2-4c5f-b527-89db6568ace8",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.034,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2a78de43-fdf2-4c5f-b527-89db6568ace8",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.088,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5dacfb93-571f-3502-bf9e-1ce678de151d",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.024783519,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5dacfb93-571f-3502-bf9e-1ce678de151d",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 0.0117,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5dacfb93-571f-3502-bf9e-1ce678de151d",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.033289241622575,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "5dacfb93-571f-3502-bf9e-1ce678de151d",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 0.01009624,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.13977,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0042944,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.42944,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.13999000000000003,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0042944,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "provider": "a8b6bb7c-0274-41de-8385-ef5f8a03f9bf",
+    "amount_per_reference": 0.267,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f85fcdde-6c6b-3bbb-8efc-de6cb34c9ac7",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.0049263,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "da0f5501-f4ab-32d1-80b7-b70d143608f6",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.0049263,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "dfa7acbc-4a41-3329-951d-b6cde899c91e",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 0.00164,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "dfa7acbc-4a41-3329-951d-b6cde899c91e",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.113,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "dfa7acbc-4a41-3329-951d-b6cde899c91e",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.159,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "dfa7acbc-4a41-3329-951d-b6cde899c91e",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 0.000866,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "dfa7acbc-4a41-3329-951d-b6cde899c91e",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.00101,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "eaff3c91-b8ce-38a1-a3ba-1fe0c9d4041c",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.0088155,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 1.043,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.12662,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0067592,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "provider": "317adcbc-b3e3-3ec3-80c3-82b18d0f3207",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0322447228268869,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "d3db6ab2-33de-453b-ac74-0567ba7fa95b",
+    "amount_per_reference": 0.14784,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "3ca7a144-e2f3-4963-8c63-768cf0853cee",
+    "amount_per_reference": 0.08316,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 1.27923877033286,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.0309435559983201,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "eaff3c91-b8ce-38a1-a3ba-1fe0c9d4041c",
+    "amount_per_reference": 0.0807446315106271,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.0242840997024443,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "39abf743-0b9e-33e3-8752-b418609504f1",
+    "amount_per_reference": 0.0756398935800291,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.105028731213071,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "70d2004a-9f80-48ce-a86c-50e85dd6a637",
+    "amount_per_reference": 0.359687901909761,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.271396507558462,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 2.66126236492745e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 2.3110962642791e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0251967753183513,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "provider": "a8b6bb7c-0274-41de-8385-ef5f8a03f9bf",
+    "amount_per_reference": 0.647515626075067,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.237245342340909,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "amount_per_reference": 0.335,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0159171075837743,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "3ca7a144-e2f3-4963-8c63-768cf0853cee",
+    "amount_per_reference": 0.016,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 0.0033376,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.151283163038102,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.0374531301271676,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "eaff3c91-b8ce-38a1-a3ba-1fe0c9d4041c",
+    "amount_per_reference": 0.124531657672832,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "70d2004a-9f80-48ce-a86c-50e85dd6a637",
+    "amount_per_reference": 0.667,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "d3db6ab2-33de-453b-ac74-0567ba7fa95b",
+    "amount_per_reference": 0.0221,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0300011467415683,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.03229128,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0393976797,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.00958994708994709,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ce587724-1be4-3da0-b7a2-988592c28b9a",
+    "provider": "d85c6177-4580-35f0-afd6-52125ababf10",
+    "amount_per_reference": 0.019670760000000002,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ce587724-1be4-3da0-b7a2-988592c28b9a",
+    "provider": "b355f122-dc4e-4224-aafa-d43c3b57db7b",
+    "amount_per_reference": 9.1503e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ce587724-1be4-3da0-b7a2-988592c28b9a",
+    "provider": "4a42fda8-640a-3152-9741-f64c558be34d",
+    "amount_per_reference": 0.0031895,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ce587724-1be4-3da0-b7a2-988592c28b9a",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 0.00011503,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ce587724-1be4-3da0-b7a2-988592c28b9a",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.097778,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "ce587724-1be4-3da0-b7a2-988592c28b9a",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 0.0011059,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0678,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "provider": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "amount_per_reference": 3.22e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0161,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.0241,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 0.000945,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "provider": "49e563d8-0cea-3f97-96b8-15787be48b91",
+    "amount_per_reference": 1.87,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 0.172,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.021,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0805,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6ce2af92-11dd-3e96-8f77-4d215ac13b96",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.000209,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6ce2af92-11dd-3e96-8f77-4d215ac13b96",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.020916670000000002,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "6ce2af92-11dd-3e96-8f77-4d215ac13b96",
+    "provider": "3a287ab1-de41-3e89-bf5a-be7f3b97281b",
+    "amount_per_reference": 0.081,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6ce2af92-11dd-3e96-8f77-4d215ac13b96",
+    "provider": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "amount_per_reference": 1.55e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6ce2af92-11dd-3e96-8f77-4d215ac13b96",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.779,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6ce2af92-11dd-3e96-8f77-4d215ac13b96",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.181,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6ce2af92-11dd-3e96-8f77-4d215ac13b96",
+    "provider": "6b0d74c7-e880-4b93-aa2f-b777ac183f84",
+    "amount_per_reference": 0.304,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6ce2af92-11dd-3e96-8f77-4d215ac13b96",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0135,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6ce2af92-11dd-3e96-8f77-4d215ac13b96",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.014194440000000001,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "45b70b50-20a0-341b-8e2f-c196974d1541",
+    "amount_per_reference": 0.0036656751865903874,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.041143159099182834,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "6b0d74c7-e880-4b93-aa2f-b777ac183f84",
+    "amount_per_reference": 0.0060000032089508465,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.02338859746838519,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.07899898076617327,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "amount_per_reference": 0.036999693177757025,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0013347765773484594,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.12409576327486319,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.03404917310542042,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "amount_per_reference": 13.309797271100852,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.9834821949708809,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.14948566825599144,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.13998129475606114,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "bada054f-b912-3251-96c1-19e64cde8930",
+    "amount_per_reference": 0.0005692335860602587,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "906cf3a2-6299-3d9c-8a4b-1fe4240b71da",
+    "amount_per_reference": 0.00033057092881845214,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.010876873621582609,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.08606847095194618,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.013482492717426903,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.021093340259768004,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.004222219944112079,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "4a8e5076-be9b-37a6-8cc1-70ef1c80fce3",
+    "amount_per_reference": 0.00019041816340646447,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "bada054f-b912-3251-96c1-19e64cde8930",
+    "amount_per_reference": 0.00021709409830704204,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "7a2565f8-4a48-3263-9bc9-bcb28dbd58ad",
+    "amount_per_reference": 0.005833309235582223,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.023425341180369458,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "4a8e5076-be9b-37a6-8cc1-70ef1c80fce3",
+    "amount_per_reference": 0.00048395143054477587,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "1e2429d8-8d91-328f-85c3-18d39bdebfa7",
+    "amount_per_reference": 0.007403000611550094,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.16125590399495152,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "4cb0c558-b0ac-3656-bc1f-95b477c14921",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.049754319,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4cb0c558-b0ac-3656-bc1f-95b477c14921",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 6.7e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4cb0c558-b0ac-3656-bc1f-95b477c14921",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 0.108,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4cb0c558-b0ac-3656-bc1f-95b477c14921",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0906084656084656,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "4cb0c558-b0ac-3656-bc1f-95b477c14921",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.00158536,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4eaec911-05e8-304e-b7a6-98ce06fc9820",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.316,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "4eaec911-05e8-304e-b7a6-98ce06fc9820",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.0468,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4eaec911-05e8-304e-b7a6-98ce06fc9820",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0234,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4eaec911-05e8-304e-b7a6-98ce06fc9820",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0703,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4eaec911-05e8-304e-b7a6-98ce06fc9820",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.00819,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4eaec911-05e8-304e-b7a6-98ce06fc9820",
+    "provider": "a8b6bb7c-0274-41de-8385-ef5f8a03f9bf",
+    "amount_per_reference": 2.91,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e53e0de4-6c90-3519-850b-eb670f2c641b",
+    "provider": "ce83ed94-a5ea-47d4-a52f-43223b22247c",
+    "amount_per_reference": 0.1033,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e53e0de4-6c90-3519-850b-eb670f2c641b",
+    "provider": "3dd5638d-cb25-4e78-90c7-8dd98188f733",
+    "amount_per_reference": 0.4236,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e53e0de4-6c90-3519-850b-eb670f2c641b",
+    "provider": "fcbe548c-bcd5-40b2-979c-53df809835f9",
+    "amount_per_reference": 0.3855,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e53e0de4-6c90-3519-850b-eb670f2c641b",
+    "provider": "76048c3b-d6d3-4f3b-8215-87ece218b4a2",
+    "amount_per_reference": 0.0875,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "64c379de-b24a-36d0-9170-d61d9d9d7278",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.00086,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "64c379de-b24a-36d0-9170-d61d9d9d7278",
+    "provider": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "amount_per_reference": 0.81,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "64c379de-b24a-36d0-9170-d61d9d9d7278",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.26,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1b0f75b8-e749-3eb2-8727-de6a22f60646",
+    "provider": "ae8c5758-4473-3791-9339-22ff52cacb23",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1b0f75b8-e749-3eb2-8727-de6a22f60646",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.00103,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1b0f75b8-e749-3eb2-8727-de6a22f60646",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.011008,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3455f918-4a43-3b09-b06e-7402c12b8d45",
+    "provider": "5dd973e3-0fc2-38d8-a25b-51b82ee2c2de",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.028425,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.041307,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.0052453,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0033554,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "058ef703-9452-44a8-84e6-d14551e61713",
+    "provider": "5b7c9f9b-8460-4afd-a560-b441f0fcf408",
+    "amount_per_reference": 0.171,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "058ef703-9452-44a8-84e6-d14551e61713",
+    "provider": "0945cc82-1126-45c3-b525-6d4fc913aa09",
+    "amount_per_reference": 0.042,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "058ef703-9452-44a8-84e6-d14551e61713",
+    "provider": "bc4c2bad-4bdb-4402-8aed-74efc5781057",
+    "amount_per_reference": 0.113,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "058ef703-9452-44a8-84e6-d14551e61713",
+    "provider": "f2996639-3901-4d02-8046-4e647947b7cb",
+    "amount_per_reference": 0.269,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "058ef703-9452-44a8-84e6-d14551e61713",
+    "provider": "e7425edd-537c-497f-aa4b-7a8a79b1ab4a",
+    "amount_per_reference": 0.274,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "058ef703-9452-44a8-84e6-d14551e61713",
+    "provider": "7ae49a74-3d24-4b32-ae19-ddbf6e0ae94a",
+    "amount_per_reference": 0.132,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1dbafde2-2bc3-405c-9726-4d92fe7d29f9",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.0017,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1dbafde2-2bc3-405c-9726-4d92fe7d29f9",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.108,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1dbafde2-2bc3-405c-9726-4d92fe7d29f9",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.151,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "1dbafde2-2bc3-405c-9726-4d92fe7d29f9",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.02,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1dbafde2-2bc3-405c-9726-4d92fe7d29f9",
+    "provider": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "amount_per_reference": 0.999284,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1dbafde2-2bc3-405c-9726-4d92fe7d29f9",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.085,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1dbafde2-2bc3-405c-9726-4d92fe7d29f9",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.011,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1dbafde2-2bc3-405c-9726-4d92fe7d29f9",
+    "provider": "4eaec911-05e8-304e-b7a6-98ce06fc9820",
+    "amount_per_reference": 0.00045,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.22512,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 0.0016691,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "da0f5501-f4ab-32d1-80b7-b70d143608f6",
+    "amount_per_reference": 0.28097,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 2.3367e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.09931,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.0457,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.0739,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "f85fcdde-6c6b-3bbb-8efc-de6cb34c9ac7",
+    "amount_per_reference": 2.529,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "76a47261-8a9c-30a2-93a6-f5a029aded6f",
+    "amount_per_reference": 2.64,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.4867,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "a6260670-e98e-3917-98bd-c14acb79fdf7",
+    "amount_per_reference": 0.10913,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 0.00859,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "85cc9ce7-c801-36bd-ac92-2bb7bf7b5209",
+    "provider": "7ee5b4ca-1a5e-3d26-8e79-0805a115e444",
+    "amount_per_reference": 0.004359981892258941,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "85cc9ce7-c801-36bd-ac92-2bb7bf7b5209",
+    "provider": "7906c042-7330-3046-9b9a-92a4af4f2150",
+    "amount_per_reference": 0.006930194658216387,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "85cc9ce7-c801-36bd-ac92-2bb7bf7b5209",
+    "provider": "4d7e8233-af87-31fc-b497-592383d4008a",
+    "amount_per_reference": 0.006358985966500679,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "85cc9ce7-c801-36bd-ac92-2bb7bf7b5209",
+    "provider": "0924e625-e201-374c-8628-0c44df929cdd",
+    "amount_per_reference": 0.0001821638750565867,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "85cc9ce7-c801-36bd-ac92-2bb7bf7b5209",
+    "provider": "accc6b3b-6793-3964-b89d-82066f6977fc",
+    "amount_per_reference": 0.004650339520144862,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "85cc9ce7-c801-36bd-ac92-2bb7bf7b5209",
+    "provider": "d549cd32-3e84-327e-86e8-452772ff7c56",
+    "amount_per_reference": 6.66419194205523e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "85cc9ce7-c801-36bd-ac92-2bb7bf7b5209",
+    "provider": "0924e625-e201-374c-8628-0c44df929cdd",
+    "amount_per_reference": 0.00039874151199637844,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "85cc9ce7-c801-36bd-ac92-2bb7bf7b5209",
+    "provider": "32a3732b-30c8-3605-8306-ca12599f8e91",
+    "amount_per_reference": 0.0007295608872793118,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "85cc9ce7-c801-36bd-ac92-2bb7bf7b5209",
+    "provider": "b6884185-30b8-391a-9dff-dbded4429a66",
+    "amount_per_reference": 0.0120208239022182,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 9.45e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.008490000000000001,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 3.6400000000000004e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "88b44b36-2322-39a8-9c54-6b89b1b43cd4",
+    "amount_per_reference": 1.05e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "amount_per_reference": 0.00026000000000000003,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "amount_per_reference": 1.0251e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "13821cca-f344-37b9-a367-0467be778061",
+    "amount_per_reference": 1.6647000000000001e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "f8513ce4-7415-4495-9d10-5957ab21af04",
+    "amount_per_reference": 6.441e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "6373ec73-ca57-47bd-8284-2f3cc25b8637",
+    "amount_per_reference": 2.1591000000000002e-06,
+    "decision": "unique exact reference-flow provider assumption"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.0337,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "1d7ac207-310f-3366-8f9c-e951b61d31ce",
+    "amount_per_reference": 2.9211000000000002e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "5dacfb93-571f-3502-bf9e-1ce678de151d",
+    "amount_per_reference": 9.25e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 0.00028277,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "62993671-574c-3fc5-b66a-6be3bb21ad3d",
+    "amount_per_reference": 2.18e-08,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.000357,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "62993671-574c-3fc5-b66a-6be3bb21ad3d",
+    "amount_per_reference": 0.000616,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 1.1199999999999999e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 1.0500000000000001e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "amount_per_reference": 1.412e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "23baebba-06e9-4bb0-9f98-ec855db2e600",
+    "amount_per_reference": 3.57e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 2.55e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.0124,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "ae8c5758-4473-3791-9339-22ff52cacb23",
+    "amount_per_reference": 0.14969,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "88b44b36-2322-39a8-9c54-6b89b1b43cd4",
+    "amount_per_reference": 0.0022860999999999997,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.12100000000000001,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "amount_per_reference": 1.8098e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 6.1324e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 6.1702e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "amount_per_reference": 4.3817000000000004e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "amount_per_reference": 2.7987e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "provider": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "amount_per_reference": 7.37e-08,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "39abf743-0b9e-33e3-8752-b418609504f1",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.1985,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "39abf743-0b9e-33e3-8752-b418609504f1",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.011858,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "39abf743-0b9e-33e3-8752-b418609504f1",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 1.186,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "8a0090ee-4054-322f-a65d-15c8ee6ca915",
+    "amount_per_reference": 0.0963996188283779,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 1.10666729604244,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.170235600681209,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.0423233005093921,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "d3db6ab2-33de-453b-ac74-0567ba7fa95b",
+    "amount_per_reference": 0.10382,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "eaff3c91-b8ce-38a1-a3ba-1fe0c9d4041c",
+    "amount_per_reference": 0.0900337497437817,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 1.60162644144638e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 1.8442971143928e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0248981006276475,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0327568663476606,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "3ca7a144-e2f3-4963-8c63-768cf0853cee",
+    "amount_per_reference": 0.07518,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "70d2004a-9f80-48ce-a86c-50e85dd6a637",
+    "amount_per_reference": 0.41861452762571,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "a8b6bb7c-0274-41de-8385-ef5f8a03f9bf",
+    "amount_per_reference": 0.584240806562024,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.027077819471814,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.115970346560387,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "d85c6177-4580-35f0-afd6-52125ababf10",
+    "provider": "8a62a285-537e-36b0-bdc3-3af4bfd205a3",
+    "amount_per_reference": 0.042623629215808,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d85c6177-4580-35f0-afd6-52125ababf10",
+    "provider": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "amount_per_reference": 0.000302089799296503,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d85c6177-4580-35f0-afd6-52125ababf10",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.000101386302503621,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d85c6177-4580-35f0-afd6-52125ababf10",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.000724187875025864,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d85c6177-4580-35f0-afd6-52125ababf10",
+    "provider": "db291182-7d45-38c4-8529-a9abc78e55e9",
+    "amount_per_reference": 0.00655907303951997,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4a42fda8-640a-3152-9741-f64c558be34d",
+    "provider": "d85c6177-4580-35f0-afd6-52125ababf10",
+    "amount_per_reference": 0.684,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4a42fda8-640a-3152-9741-f64c558be34d",
+    "provider": "b355f122-dc4e-4224-aafa-d43c3b57db7b",
+    "amount_per_reference": 0.0057,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4a42fda8-640a-3152-9741-f64c558be34d",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 3.4100000000000006,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "4a42fda8-640a-3152-9741-f64c558be34d",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 0.693,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4a42fda8-640a-3152-9741-f64c558be34d",
+    "provider": "6baa9816-6151-3af1-b230-d28bebfb5227",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4a42fda8-640a-3152-9741-f64c558be34d",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 0.0721,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6b0d74c7-e880-4b93-aa2f-b777ac183f84",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.00737,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6b0d74c7-e880-4b93-aa2f-b777ac183f84",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.01,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6b0d74c7-e880-4b93-aa2f-b777ac183f84",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6b0d74c7-e880-4b93-aa2f-b777ac183f84",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.01,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6b0d74c7-e880-4b93-aa2f-b777ac183f84",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.252,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "6b0d74c7-e880-4b93-aa2f-b777ac183f84",
+    "provider": "ee8077d4-d28c-46c4-9f15-5b22bce6063d",
+    "amount_per_reference": 0.62,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "provider": "d549cd32-3e84-327e-86e8-452772ff7c56",
+    "amount_per_reference": 2.825618846047667e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "provider": "0924e625-e201-374c-8628-0c44df929cdd",
+    "amount_per_reference": 3.3613692831508234e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "provider": "7ee5b4ca-1a5e-3d26-8e79-0805a115e444",
+    "amount_per_reference": 0.0036377104996779238,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "provider": "32a3732b-30c8-3605-8306-ca12599f8e91",
+    "amount_per_reference": 1.0588938989601547e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "provider": "a515132e-c816-34ea-9773-d56c11dc1cb0",
+    "amount_per_reference": 0.00020931259777307444,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "provider": "b6884185-30b8-391a-9dff-dbded4429a66",
+    "amount_per_reference": 0.005913223520750897,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "provider": "0924e625-e201-374c-8628-0c44df929cdd",
+    "amount_per_reference": 0.0001161958222140425,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "provider": "7906c042-7330-3046-9b9a-92a4af4f2150",
+    "amount_per_reference": 0.02186988129198491,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "provider": "4d7e8233-af87-31fc-b497-592383d4008a",
+    "amount_per_reference": 0.0051038004969172724,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "provider": "accc6b3b-6793-3964-b89d-82066f6977fc",
+    "amount_per_reference": 0.002074721634305696,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4a8e5076-be9b-37a6-8cc1-70ef1c80fce3",
+    "provider": "10a86db5-7f96-35cb-83c3-4912877b7eb7",
+    "amount_per_reference": 0.268282589877366,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4a8e5076-be9b-37a6-8cc1-70ef1c80fce3",
+    "provider": "fa501a68-3e1d-3ef1-84a0-48eead282f98",
+    "amount_per_reference": 0.538531813836989,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4a8e5076-be9b-37a6-8cc1-70ef1c80fce3",
+    "provider": "20b49008-b007-3407-95b0-92b796e5e2c0",
+    "amount_per_reference": 0.193185596285644,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ce83ed94-a5ea-47d4-a52f-43223b22247c",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 1.76e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ce83ed94-a5ea-47d4-a52f-43223b22247c",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 2.24e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ce83ed94-a5ea-47d4-a52f-43223b22247c",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 3.67e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ce83ed94-a5ea-47d4-a52f-43223b22247c",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 5.26e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ce83ed94-a5ea-47d4-a52f-43223b22247c",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 2.24e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ce83ed94-a5ea-47d4-a52f-43223b22247c",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.044,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "3dd5638d-cb25-4e78-90c7-8dd98188f733",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 1.76e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dd5638d-cb25-4e78-90c7-8dd98188f733",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 3.67e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dd5638d-cb25-4e78-90c7-8dd98188f733",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 2.24e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dd5638d-cb25-4e78-90c7-8dd98188f733",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 2.24e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dd5638d-cb25-4e78-90c7-8dd98188f733",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 5.26e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3dd5638d-cb25-4e78-90c7-8dd98188f733",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.044,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "fcbe548c-bcd5-40b2-979c-53df809835f9",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 1.76e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fcbe548c-bcd5-40b2-979c-53df809835f9",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 3.67e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fcbe548c-bcd5-40b2-979c-53df809835f9",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.044,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "fcbe548c-bcd5-40b2-979c-53df809835f9",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 2.24e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fcbe548c-bcd5-40b2-979c-53df809835f9",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 5.26e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fcbe548c-bcd5-40b2-979c-53df809835f9",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 2.24e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76048c3b-d6d3-4f3b-8215-87ece218b4a2",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 1.76e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76048c3b-d6d3-4f3b-8215-87ece218b4a2",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 2.24e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76048c3b-d6d3-4f3b-8215-87ece218b4a2",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 5.26e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76048c3b-d6d3-4f3b-8215-87ece218b4a2",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 3.67e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76048c3b-d6d3-4f3b-8215-87ece218b4a2",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 2.24e-07,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76048c3b-d6d3-4f3b-8215-87ece218b4a2",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.044,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.18,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "provider": "1975f735-687a-39ea-96e7-e890e5a5bb51",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0194,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0432,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.049,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "provider": "da0f5501-f4ab-32d1-80b7-b70d143608f6",
+    "amount_per_reference": 0.0508,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.174,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "provider": "da0f5501-f4ab-32d1-80b7-b70d143608f6",
+    "amount_per_reference": 0.00564,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.106,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0324,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ae8c5758-4473-3791-9339-22ff52cacb23",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 0.00141,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ae8c5758-4473-3791-9339-22ff52cacb23",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0533,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "ae8c5758-4473-3791-9339-22ff52cacb23",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 0.015,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ae8c5758-4473-3791-9339-22ff52cacb23",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.00145,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ae8c5758-4473-3791-9339-22ff52cacb23",
+    "provider": "1b0f75b8-e749-3eb2-8727-de6a22f60646",
+    "amount_per_reference": 0.000362,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ae8c5758-4473-3791-9339-22ff52cacb23",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.000251,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "5b7c9f9b-8460-4afd-a560-b441f0fcf408",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0462,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "5b7c9f9b-8460-4afd-a560-b441f0fcf408",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0436,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0945cc82-1126-45c3-b525-6d4fc913aa09",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0566,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "bc4c2bad-4bdb-4402-8aed-74efc5781057",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 3.44e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "bc4c2bad-4bdb-4402-8aed-74efc5781057",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0527,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f2996639-3901-4d02-8046-4e647947b7cb",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.057,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e7425edd-537c-497f-aa4b-7a8a79b1ab4a",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0436,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "e7425edd-537c-497f-aa4b-7a8a79b1ab4a",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0462,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "7ae49a74-3d24-4b32-ae19-ddbf6e0ae94a",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0527,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76a47261-8a9c-30a2-93a6-f5a029aded6f",
+    "provider": "6023a2bf-2d42-348b-bee7-caae15319edb",
+    "amount_per_reference": 0.00039683,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76a47261-8a9c-30a2-93a6-f5a029aded6f",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.34901,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76a47261-8a9c-30a2-93a6-f5a029aded6f",
+    "provider": "da0f5501-f4ab-32d1-80b7-b70d143608f6",
+    "amount_per_reference": 0.28081,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76a47261-8a9c-30a2-93a6-f5a029aded6f",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 0.0043396,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76a47261-8a9c-30a2-93a6-f5a029aded6f",
+    "provider": "f85fcdde-6c6b-3bbb-8efc-de6cb34c9ac7",
+    "amount_per_reference": 2.527,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76a47261-8a9c-30a2-93a6-f5a029aded6f",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 0.00026705,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "76a47261-8a9c-30a2-93a6-f5a029aded6f",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.0012518,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a6260670-e98e-3917-98bd-c14acb79fdf7",
+    "provider": "fa379f16-c09a-4e70-8595-45c69162215c",
+    "amount_per_reference": 0.343652,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a6260670-e98e-3917-98bd-c14acb79fdf7",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.012793,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "a6260670-e98e-3917-98bd-c14acb79fdf7",
+    "provider": "4b3de918-4d30-3184-bdaa-60d8575c5af4",
+    "amount_per_reference": 0.098112,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a6260670-e98e-3917-98bd-c14acb79fdf7",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.13882,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "a6260670-e98e-3917-98bd-c14acb79fdf7",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.35988,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a6260670-e98e-3917-98bd-c14acb79fdf7",
+    "provider": "2b091e0d-d0de-31a1-89db-3f51a9c5cf12",
+    "amount_per_reference": 0.046743,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7ee5b4ca-1a5e-3d26-8e79-0805a115e444",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0924e625-e201-374c-8628-0c44df929cdd",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "accc6b3b-6793-3964-b89d-82066f6977fc",
+    "provider": "317adcbc-b3e3-3ec3-80c3-82b18d0f3207",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d549cd32-3e84-327e-86e8-452772ff7c56",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "32a3732b-30c8-3605-8306-ca12599f8e91",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "b6884185-30b8-391a-9dff-dbded4429a66",
+    "provider": "5dd973e3-0fc2-38d8-a25b-51b82ee2c2de",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "88b44b36-2322-39a8-9c54-6b89b1b43cd4",
+    "provider": "ac54bc7d-5db5-3b4f-9175-5dd02f678312",
+    "amount_per_reference": 0.44,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.2623,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "5dacfb93-571f-3502-bf9e-1ce678de151d",
+    "amount_per_reference": 1.117,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.68,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.791,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.39,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "7a2565f8-4a48-3263-9bc9-bcb28dbd58ad",
+    "amount_per_reference": 0.046,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.00376,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.00016,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "amount_per_reference": 0.787,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.087,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.25100000000000006,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.27,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13821cca-f344-37b9-a367-0467be778061",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.0011,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13821cca-f344-37b9-a367-0467be778061",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.34,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13821cca-f344-37b9-a367-0467be778061",
+    "provider": "1e2429d8-8d91-328f-85c3-18d39bdebfa7",
+    "amount_per_reference": 0.41,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13821cca-f344-37b9-a367-0467be778061",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 3.4e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13821cca-f344-37b9-a367-0467be778061",
+    "provider": "874dc726-50f1-300b-958f-9335fd1c53cd",
+    "amount_per_reference": 0.0138,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13821cca-f344-37b9-a367-0467be778061",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0054,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13821cca-f344-37b9-a367-0467be778061",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.126,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "13821cca-f344-37b9-a367-0467be778061",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.023,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13821cca-f344-37b9-a367-0467be778061",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.1,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "13821cca-f344-37b9-a367-0467be778061",
+    "provider": "e2884390-2613-3d46-81d2-6051ecadc9c2",
+    "amount_per_reference": 0.986,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "62993671-574c-3fc5-b66a-6be3bb21ad3d",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 0.00107,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "62993671-574c-3fc5-b66a-6be3bb21ad3d",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 0.107,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "62993671-574c-3fc5-b66a-6be3bb21ad3d",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.00557,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "62993671-574c-3fc5-b66a-6be3bb21ad3d",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 4.42e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "62993671-574c-3fc5-b66a-6be3bb21ad3d",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 0.000133,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "62993671-574c-3fc5-b66a-6be3bb21ad3d",
+    "provider": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "amount_per_reference": 1.43e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "62993671-574c-3fc5-b66a-6be3bb21ad3d",
+    "provider": "98d423fc-789a-42d0-b961-18a96bc6491c",
+    "amount_per_reference": 0.00013,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "62993671-574c-3fc5-b66a-6be3bb21ad3d",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.144,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 3.5e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.082,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.0011,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.0026,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.31000000000000005,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.028,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.022,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "provider": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "amount_per_reference": 0.983,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0045,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "provider": "4eaec911-05e8-304e-b7a6-98ce06fc9820",
+    "amount_per_reference": 0.0018,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.176,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "provider": "e0368d96-44a3-3628-8220-e6ae975b0931",
+    "amount_per_reference": 0.146,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.019,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "provider": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "amount_per_reference": 0.526,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.016,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.046,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.0017,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.053,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.372,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.065,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8a0090ee-4054-322f-a65d-15c8ee6ca915",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.011858,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8a0090ee-4054-322f-a65d-15c8ee6ca915",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 1.186,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8a0090ee-4054-322f-a65d-15c8ee6ca915",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.1985,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8a62a285-537e-36b0-bdc3-3af4bfd205a3",
+    "provider": "ce587724-1be4-3da0-b7a2-988592c28b9a",
+    "amount_per_reference": 0.68,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "db291182-7d45-38c4-8529-a9abc78e55e9",
+    "provider": "5dd973e3-0fc2-38d8-a25b-51b82ee2c2de",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "db291182-7d45-38c4-8529-a9abc78e55e9",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.003931,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6baa9816-6151-3af1-b230-d28bebfb5227",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 59.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6baa9816-6151-3af1-b230-d28bebfb5227",
+    "provider": "0b5a14e7-bf8f-380e-87de-af92dd61e21b",
+    "amount_per_reference": 21.6,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6baa9816-6151-3af1-b230-d28bebfb5227",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 2.42,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1975f735-687a-39ea-96e7-e890e5a5bb51",
+    "provider": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "amount_per_reference": 0.129,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1975f735-687a-39ea-96e7-e890e5a5bb51",
+    "provider": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "amount_per_reference": 0.129,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1975f735-687a-39ea-96e7-e890e5a5bb51",
+    "provider": "d9cadd89-4203-375a-903a-63197cd29c6a",
+    "amount_per_reference": 0.129,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1975f735-687a-39ea-96e7-e890e5a5bb51",
+    "provider": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "amount_per_reference": 0.484,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1975f735-687a-39ea-96e7-e890e5a5bb51",
+    "provider": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "amount_per_reference": 0.129,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6023a2bf-2d42-348b-bee7-caae15319edb",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.010255,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "6023a2bf-2d42-348b-bee7-caae15319edb",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.21579,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "6023a2bf-2d42-348b-bee7-caae15319edb",
+    "provider": "4b3de918-4d30-3184-bdaa-60d8575c5af4",
+    "amount_per_reference": 0.745,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6023a2bf-2d42-348b-bee7-caae15319edb",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.020714,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6023a2bf-2d42-348b-bee7-caae15319edb",
+    "provider": "2b091e0d-d0de-31a1-89db-3f51a9c5cf12",
+    "amount_per_reference": 0.001179,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "6023a2bf-2d42-348b-bee7-caae15319edb",
+    "provider": "fa379f16-c09a-4e70-8595-45c69162215c",
+    "amount_per_reference": 0.0076075,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa379f16-c09a-4e70-8595-45c69162215c",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.0035372,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa379f16-c09a-4e70-8595-45c69162215c",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.05921,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fa379f16-c09a-4e70-8595-45c69162215c",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.35372,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4b3de918-4d30-3184-bdaa-60d8575c5af4",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.001116,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4b3de918-4d30-3184-bdaa-60d8575c5af4",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.013739,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4b3de918-4d30-3184-bdaa-60d8575c5af4",
+    "provider": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "amount_per_reference": 0.0094543,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4b3de918-4d30-3184-bdaa-60d8575c5af4",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.33261,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4b3de918-4d30-3184-bdaa-60d8575c5af4",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.0017446,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2b091e0d-d0de-31a1-89db-3f51a9c5cf12",
+    "provider": "a626a6b9-3877-36f5-ac98-f5844b6348dd",
+    "amount_per_reference": 3.0391e-06,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "874dc726-50f1-300b-958f-9335fd1c53cd",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0746,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "874dc726-50f1-300b-958f-9335fd1c53cd",
+    "provider": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "amount_per_reference": 0.00776,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "874dc726-50f1-300b-958f-9335fd1c53cd",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.182,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "874dc726-50f1-300b-958f-9335fd1c53cd",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.414,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "874dc726-50f1-300b-958f-9335fd1c53cd",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.028,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "874dc726-50f1-300b-958f-9335fd1c53cd",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0439,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "874dc726-50f1-300b-958f-9335fd1c53cd",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.345,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "874dc726-50f1-300b-958f-9335fd1c53cd",
+    "provider": "70d2004a-9f80-48ce-a86c-50e85dd6a637",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "98d423fc-789a-42d0-b961-18a96bc6491c",
+    "provider": "70d2004a-9f80-48ce-a86c-50e85dd6a637",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "provider": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "amount_per_reference": 0.203,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.00032,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0312,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "provider": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "amount_per_reference": 0.0032,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "provider": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "amount_per_reference": 0.848,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "provider": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "amount_per_reference": 0.002,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "provider": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "amount_per_reference": 0.057,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.01,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "provider": "4eaec911-05e8-304e-b7a6-98ce06fc9820",
+    "amount_per_reference": 0.067,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.144,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.139,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.09348659003831418,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "9ee66dd5-dcc9-3e94-9da3-3a7cc6cddeb3",
+    "amount_per_reference": 1.2758620689655172e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "amount_per_reference": 0.12796934865900383,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "5198d618-7bc8-3639-b4a1-de71d6d5f49a",
+    "amount_per_reference": 23.585057471264367,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "442ab5b5-32f4-4de0-9aa7-fa989b0579af",
+    "amount_per_reference": 0.0009540229885057471,
+    "decision": "unique exact reference-flow provider assumption"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "68f4d066-5043-34cc-a944-5041732f8e7a",
+    "amount_per_reference": 0.04980842911877394,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "3dd59224-ecba-3fb1-a2c9-9c01947b08b1",
+    "amount_per_reference": 0.021839080459770115,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "8ccbedef-d726-3fae-a848-a6d41aeab5a4",
+    "amount_per_reference": 3.7547892720306515,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.017777777777777778,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.7509578544061303,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "amount_per_reference": 0.006245210727969349,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 1.2758620689655172e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 1.2758620689655172e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "4c6f7612-c4b8-36d1-803a-8fb067b1b319",
+    "amount_per_reference": 3.7547892720306515,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "5198d618-7bc8-3639-b4a1-de71d6d5f49a",
+    "amount_per_reference": 23.60153256704981,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "amount_per_reference": 0.12796934865900383,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "9ee66dd5-dcc9-3e94-9da3-3a7cc6cddeb3",
+    "amount_per_reference": 1.2758620689655172e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "3dd59224-ecba-3fb1-a2c9-9c01947b08b1",
+    "amount_per_reference": 0.021724137931034483,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.7509578544061303,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "amount_per_reference": 0.006245210727969349,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.017777777777777778,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "68f4d066-5043-34cc-a944-5041732f8e7a",
+    "amount_per_reference": 0.04980842911877394,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.09348659003831418,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "provider": "442ab5b5-32f4-4de0-9aa7-fa989b0579af",
+    "amount_per_reference": 0.0009540229885057471,
+    "decision": "unique exact reference-flow provider assumption"
+  },
+  {
+    "consumer": "d9cadd89-4203-375a-903a-63197cd29c6a",
+    "provider": "9ee66dd5-dcc9-3e94-9da3-3a7cc6cddeb3",
+    "amount_per_reference": 1.884341217013643e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d9cadd89-4203-375a-903a-63197cd29c6a",
+    "provider": "6c96a609-cd7e-3f19-a151-27deb823d3e4",
+    "amount_per_reference": 18.44261908133881,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d9cadd89-4203-375a-903a-63197cd29c6a",
+    "provider": "0853441e-0b11-30f6-87c5-00ca7df78e21",
+    "amount_per_reference": 1.9699759240900723,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d9cadd89-4203-375a-903a-63197cd29c6a",
+    "provider": "2753c5de-221b-369a-84de-689d354b8b2d",
+    "amount_per_reference": 5631.402539772459,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d9cadd89-4203-375a-903a-63197cd29c6a",
+    "provider": "a1c4409b-9e9e-4f3b-bec0-f319fef1e3c5",
+    "amount_per_reference": 0.0021412925459094556,
+    "decision": "unique exact reference-flow provider assumption"
+  },
+  {
+    "consumer": "d9cadd89-4203-375a-903a-63197cd29c6a",
+    "provider": "309485bd-a13b-4539-a23c-036c0b23b4f5",
+    "amount_per_reference": 0.011520086862106406,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d9cadd89-4203-375a-903a-63197cd29c6a",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.00391351555492612,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d9cadd89-4203-375a-903a-63197cd29c6a",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.03927677854883633,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "d9cadd89-4203-375a-903a-63197cd29c6a",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 1.884341217013643e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "88aee762-4aa0-301f-b579-cca5d636aa0d",
+    "amount_per_reference": 0.3053691275167785,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "5a782377-d196-304c-baec-fea559a4dfe2",
+    "amount_per_reference": 0.0031543624161073825,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "097d2f2c-d006-3b27-84de-98e6a364e411",
+    "amount_per_reference": 0.49395973154362416,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "amount_per_reference": 0.006174496644295302,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 0.015503355704697987,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "c7fec37a-a023-3563-84d6-fa33a6b19f2f",
+    "amount_per_reference": 0.0009993288590604027,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "1b0f75b8-e749-3eb2-8727-de6a22f60646",
+    "amount_per_reference": 0.02791946308724832,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "9109d57c-8234-3569-a2e6-0e4671b524d9",
+    "amount_per_reference": 3.1140939597315436,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0026644295302013423,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.014697986577181209,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "8504caf4-bea5-3ab2-b8f9-d4861e819f92",
+    "amount_per_reference": 0.9530201342281879,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "391ccf45-4b61-37e9-a2f2-3e19afc0d4ef",
+    "amount_per_reference": 0.002147651006711409,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "3455f918-4a43-3b09-b06e-7402c12b8d45",
+    "amount_per_reference": 0.05771812080536913,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.003691275167785235,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "dacaeae9-aeed-3366-912d-6a31de09eef9",
+    "amount_per_reference": 0.011610738255033557,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.01785234899328859,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "9ee66dd5-dcc9-3e94-9da3-3a7cc6cddeb3",
+    "amount_per_reference": 1.2758620689655172e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "5198d618-7bc8-3639-b4a1-de71d6d5f49a",
+    "amount_per_reference": 0.024900936183908047,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "amount_per_reference": 0.017777777777777778,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "3dd59224-ecba-3fb1-a2c9-9c01947b08b1",
+    "amount_per_reference": 0.021877394636015325,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "442ab5b5-32f4-4de0-9aa7-fa989b0579af",
+    "amount_per_reference": 0.0009540229885057471,
+    "decision": "unique exact reference-flow provider assumption"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "68f4d066-5043-34cc-a944-5041732f8e7a",
+    "amount_per_reference": 0.04980842911877394,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.7509578544061303,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "f002e825-5cb6-3949-be51-863c7fe5d5da",
+    "amount_per_reference": 3.7547892720306515,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.09348659003831418,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "amount_per_reference": 1.2758620689655172e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "amount_per_reference": 0.12796934865900383,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "provider": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "amount_per_reference": 0.006245210727969349,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a626a6b9-3877-36f5-ac98-f5844b6348dd",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 184.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a626a6b9-3877-36f5-ac98-f5844b6348dd",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 27.9,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a626a6b9-3877-36f5-ac98-f5844b6348dd",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 22.7,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a626a6b9-3877-36f5-ac98-f5844b6348dd",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.111,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a626a6b9-3877-36f5-ac98-f5844b6348dd",
+    "provider": "da0f5501-f4ab-32d1-80b7-b70d143608f6",
+    "amount_per_reference": 7.89,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a626a6b9-3877-36f5-ac98-f5844b6348dd",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 4080.0,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "a626a6b9-3877-36f5-ac98-f5844b6348dd",
+    "provider": "f85fcdde-6c6b-3bbb-8efc-de6cb34c9ac7",
+    "amount_per_reference": 71.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a626a6b9-3877-36f5-ac98-f5844b6348dd",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 20.6,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8ccbedef-d726-3fae-a848-a6d41aeab5a4",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 11.3,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8ccbedef-d726-3fae-a848-a6d41aeab5a4",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 30.2,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8ccbedef-d726-3fae-a848-a6d41aeab5a4",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 200.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8ccbedef-d726-3fae-a848-a6d41aeab5a4",
+    "provider": "4be84642-28cb-3508-9189-d8afcec42d92",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 2.25,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.121,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.16000000000000003,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0862,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4c6f7612-c4b8-36d1-803a-8fb067b1b319",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.011300000000000001,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4c6f7612-c4b8-36d1-803a-8fb067b1b319",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0322,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4c6f7612-c4b8-36d1-803a-8fb067b1b319",
+    "provider": "25b4ad17-ccd9-36ff-8ed5-4ad7b4814ae3",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4c6f7612-c4b8-36d1-803a-8fb067b1b319",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.2,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2753c5de-221b-369a-84de-689d354b8b2d",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.034,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2753c5de-221b-369a-84de-689d354b8b2d",
+    "provider": "96087256-d181-30c8-ae17-f25e1f0eab0c",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "88aee762-4aa0-301f-b579-cca5d636aa0d",
+    "provider": "9d9b6815-9349-30af-869b-57362428c42e",
+    "amount_per_reference": 0.00036638043115693776,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "88aee762-4aa0-301f-b579-cca5d636aa0d",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 0.019737729456999902,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "88aee762-4aa0-301f-b579-cca5d636aa0d",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.4078915516824014,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "88aee762-4aa0-301f-b579-cca5d636aa0d",
+    "provider": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "amount_per_reference": 1.2674897119341564,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "88aee762-4aa0-301f-b579-cca5d636aa0d",
+    "provider": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "amount_per_reference": 0.00019771520874805324,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "88aee762-4aa0-301f-b579-cca5d636aa0d",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.06995884773662553,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "88aee762-4aa0-301f-b579-cca5d636aa0d",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.025966708733329215,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9109d57c-8234-3569-a2e6-0e4671b524d9",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.067,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9109d57c-8234-3569-a2e6-0e4671b524d9",
+    "provider": "8504caf4-bea5-3ab2-b8f9-d4861e819f92",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9109d57c-8234-3569-a2e6-0e4671b524d9",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.2,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9109d57c-8234-3569-a2e6-0e4671b524d9",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.011300000000000001,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8504caf4-bea5-3ab2-b8f9-d4861e819f92",
+    "provider": "6e19103d-ed39-3b71-8c51-0c65b85002a4",
+    "amount_per_reference": 0.05756541524459613,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8504caf4-bea5-3ab2-b8f9-d4861e819f92",
+    "provider": "1cbbcd09-ea17-3d9b-bc34-2cf42efe26ba",
+    "amount_per_reference": 1.0568828213879409,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8504caf4-bea5-3ab2-b8f9-d4861e819f92",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.02650739476678043,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "8504caf4-bea5-3ab2-b8f9-d4861e819f92",
+    "provider": "45b70b50-20a0-341b-8e2f-c196974d1541",
+    "amount_per_reference": 0.001695108077360637,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "dacaeae9-aeed-3366-912d-6a31de09eef9",
+    "provider": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "amount_per_reference": 0.204,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "dacaeae9-aeed-3366-912d-6a31de09eef9",
+    "provider": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "amount_per_reference": 0.0081,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "dacaeae9-aeed-3366-912d-6a31de09eef9",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.62,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "dacaeae9-aeed-3366-912d-6a31de09eef9",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.05070000000000001,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "f002e825-5cb6-3949-be51-863c7fe5d5da",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.2,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f002e825-5cb6-3949-be51-863c7fe5d5da",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0322,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f002e825-5cb6-3949-be51-863c7fe5d5da",
+    "provider": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "amount_per_reference": 0.011300000000000001,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f002e825-5cb6-3949-be51-863c7fe5d5da",
+    "provider": "4e38a874-76e2-3c20-bc6a-eea62883ebaa",
+    "amount_per_reference": 0.5,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f002e825-5cb6-3949-be51-863c7fe5d5da",
+    "provider": "3cfa52ac-c3d6-3ce2-b8f4-211bf63d7088",
+    "amount_per_reference": 0.5,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4be84642-28cb-3508-9189-d8afcec42d92",
+    "provider": "097d2f2c-d006-3b27-84de-98e6a364e411",
+    "amount_per_reference": 0.238,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4be84642-28cb-3508-9189-d8afcec42d92",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.061288999999999996,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "4be84642-28cb-3508-9189-d8afcec42d92",
+    "provider": "c0138d7e-3eac-3b37-b27a-58c9d5a2d1cf",
+    "amount_per_reference": 1.28,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4be84642-28cb-3508-9189-d8afcec42d92",
+    "provider": "ccc739c2-aec2-30d0-a1f1-a7ae81af1e8a",
+    "amount_per_reference": 0.93145,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "25b4ad17-ccd9-36ff-8ed5-4ad7b4814ae3",
+    "provider": "727c4049-41db-3645-a4f9-af66fa92dee0",
+    "amount_per_reference": 1.33,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "25b4ad17-ccd9-36ff-8ed5-4ad7b4814ae3",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.063928,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "25b4ad17-ccd9-36ff-8ed5-4ad7b4814ae3",
+    "provider": "ccc739c2-aec2-30d0-a1f1-a7ae81af1e8a",
+    "amount_per_reference": 0.97003,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "25b4ad17-ccd9-36ff-8ed5-4ad7b4814ae3",
+    "provider": "097d2f2c-d006-3b27-84de-98e6a364e411",
+    "amount_per_reference": 0.05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "96087256-d181-30c8-ae17-f25e1f0eab0c",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.03782383419689119,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "96087256-d181-30c8-ae17-f25e1f0eab0c",
+    "provider": "515c5359-a186-3394-b849-8676652228db",
+    "amount_per_reference": 1.1761658031088082,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "provider": "45b70b50-20a0-341b-8e2f-c196974d1541",
+    "amount_per_reference": 2.2e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.025,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "provider": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "amount_per_reference": 0.0045,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "provider": "dacaeae9-aeed-3366-912d-6a31de09eef9",
+    "amount_per_reference": 0.0016,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "provider": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "amount_per_reference": 0.0143,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "provider": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "amount_per_reference": 0.0012598013591218,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "provider": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "amount_per_reference": 0.00128305084745763,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "provider": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "amount_per_reference": 0.005,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.0943,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "provider": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "amount_per_reference": 0.02085,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1cbbcd09-ea17-3d9b-bc34-2cf42efe26ba",
+    "provider": "630010e9-27e1-3ea8-9845-b87832b536f4",
+    "amount_per_reference": 0.6227272727272728,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1cbbcd09-ea17-3d9b-bc34-2cf42efe26ba",
+    "provider": "24ccf5c5-25f5-35da-bead-5edf4e14cdc1",
+    "amount_per_reference": 0.9090909090909091,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1cbbcd09-ea17-3d9b-bc34-2cf42efe26ba",
+    "provider": "d5b0f333-d1b3-3ba1-8111-b036b67589f8",
+    "amount_per_reference": 0.3672727272727273,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1cbbcd09-ea17-3d9b-bc34-2cf42efe26ba",
+    "provider": "d7a673e2-dc84-31fa-b15c-a03a6863c8dd",
+    "amount_per_reference": 0.32181818181818184,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1cbbcd09-ea17-3d9b-bc34-2cf42efe26ba",
+    "provider": "d67585e4-5ddf-3722-a4cc-0b7576a05b07",
+    "amount_per_reference": 0.22,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "1cbbcd09-ea17-3d9b-bc34-2cf42efe26ba",
+    "provider": "2813d2f3-6813-34d8-b47b-b464f390bcaf",
+    "amount_per_reference": 0.9090909090909091,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4e38a874-76e2-3c20-bc6a-eea62883ebaa",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0032551000000000004,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "4e38a874-76e2-3c20-bc6a-eea62883ebaa",
+    "provider": "ccc739c2-aec2-30d0-a1f1-a7ae81af1e8a",
+    "amount_per_reference": 0.88,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4e38a874-76e2-3c20-bc6a-eea62883ebaa",
+    "provider": "3221bb51-ac5f-36b7-a5c4-d81a5c65ccf0",
+    "amount_per_reference": 1.33,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4e38a874-76e2-3c20-bc6a-eea62883ebaa",
+    "provider": "097d2f2c-d006-3b27-84de-98e6a364e411",
+    "amount_per_reference": 0.033299999999999996,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3cfa52ac-c3d6-3ce2-b8f4-211bf63d7088",
+    "provider": "097d2f2c-d006-3b27-84de-98e6a364e411",
+    "amount_per_reference": 0.033299999999999996,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3cfa52ac-c3d6-3ce2-b8f4-211bf63d7088",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.014906818611111112,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "3cfa52ac-c3d6-3ce2-b8f4-211bf63d7088",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.017024727222222223,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "3cfa52ac-c3d6-3ce2-b8f4-211bf63d7088",
+    "provider": "99898750-1f41-3c25-8ee0-aaae4b6697d0",
+    "amount_per_reference": 1.33,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3cfa52ac-c3d6-3ce2-b8f4-211bf63d7088",
+    "provider": "ccc739c2-aec2-30d0-a1f1-a7ae81af1e8a",
+    "amount_per_reference": 0.97003389,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3cfa52ac-c3d6-3ce2-b8f4-211bf63d7088",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.0009041840833333333,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "c0138d7e-3eac-3b37-b27a-58c9d5a2d1cf",
+    "provider": "4d09380a-6297-392c-b1bb-74534b4d3d8e",
+    "amount_per_reference": 0.7777777777777778,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "c0138d7e-3eac-3b37-b27a-58c9d5a2d1cf",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.01647777777777778,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "ccc739c2-aec2-30d0-a1f1-a7ae81af1e8a",
+    "provider": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "amount_per_reference": 0.030938,
+    "decision": "coal-electricity proxy for missing electricity provider"
+  },
+  {
+    "consumer": "ccc739c2-aec2-30d0-a1f1-a7ae81af1e8a",
+    "provider": "c7fec37a-a023-3563-84d6-fa33a6b19f2f",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "727c4049-41db-3645-a4f9-af66fa92dee0",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.016582138919514884,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "727c4049-41db-3645-a4f9-af66fa92dee0",
+    "provider": "f04300c5-ea44-3525-b6ab-c4b8b27b127e",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "24ccf5c5-25f5-35da-bead-5edf4e14cdc1",
+    "provider": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "amount_per_reference": 0.0010199999999999999,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "24ccf5c5-25f5-35da-bead-5edf4e14cdc1",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.000147,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "24ccf5c5-25f5-35da-bead-5edf4e14cdc1",
+    "provider": "55d8bf4f-025a-3927-bb96-235d37ba79fc",
+    "amount_per_reference": 1.0,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "24ccf5c5-25f5-35da-bead-5edf4e14cdc1",
+    "provider": "dacaeae9-aeed-3366-912d-6a31de09eef9",
+    "amount_per_reference": 0.00364,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "24ccf5c5-25f5-35da-bead-5edf4e14cdc1",
+    "provider": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "amount_per_reference": 0.0123,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "2813d2f3-6813-34d8-b47b-b464f390bcaf",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.000109,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3221bb51-ac5f-36b7-a5c4-d81a5c65ccf0",
+    "provider": "a3b730ce-d657-383b-b485-e5d082d96424",
+    "amount_per_reference": 0.75,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "3221bb51-ac5f-36b7-a5c4-d81a5c65ccf0",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.01650126050420168,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "99898750-1f41-3c25-8ee0-aaae4b6697d0",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.01650126050420168,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4d09380a-6297-392c-b1bb-74534b4d3d8e",
+    "provider": "238589f8-deaf-3218-84e9-703a9bd7f3e1",
+    "amount_per_reference": 3.0395136778115504,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "4d09380a-6297-392c-b1bb-74534b4d3d8e",
+    "provider": "630010e9-27e1-3ea8-9845-b87832b536f4",
+    "amount_per_reference": 0.9574468085106383,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "f04300c5-ea44-3525-b6ab-c4b8b27b127e",
+    "provider": "9c36427d-76de-314c-bfca-4d714b71c9a5",
+    "amount_per_reference": 0.9345794392523364,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "55d8bf4f-025a-3927-bb96-235d37ba79fc",
+    "provider": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "amount_per_reference": 0.0448,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "55d8bf4f-025a-3927-bb96-235d37ba79fc",
+    "provider": "45b70b50-20a0-341b-8e2f-c196974d1541",
+    "amount_per_reference": 0.00146,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "55d8bf4f-025a-3927-bb96-235d37ba79fc",
+    "provider": "d397dd56-dc53-37a1-956b-5da3aaa81a6f",
+    "amount_per_reference": 0.000343,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "55d8bf4f-025a-3927-bb96-235d37ba79fc",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.0112,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3b730ce-d657-383b-b485-e5d082d96424",
+    "provider": "14b0912f-fb6d-321d-8f42-0ea35918689f",
+    "amount_per_reference": 9.615384615384615,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a3b730ce-d657-383b-b485-e5d082d96424",
+    "provider": "786522bf-e3a2-3db6-8794-a8d26a370faa",
+    "amount_per_reference": 3.076923076923077,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "238589f8-deaf-3218-84e9-703a9bd7f3e1",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 9.389999999999999e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "238589f8-deaf-3218-84e9-703a9bd7f3e1",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 2.7900000000000004e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "238589f8-deaf-3218-84e9-703a9bd7f3e1",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 3.9200000000000004e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "238589f8-deaf-3218-84e9-703a9bd7f3e1",
+    "provider": "dacaeae9-aeed-3366-912d-6a31de09eef9",
+    "amount_per_reference": 0.0006219999999999999,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "238589f8-deaf-3218-84e9-703a9bd7f3e1",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.000166,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "238589f8-deaf-3218-84e9-703a9bd7f3e1",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 2.7900000000000004e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "238589f8-deaf-3218-84e9-703a9bd7f3e1",
+    "provider": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "amount_per_reference": 0.0021,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "238589f8-deaf-3218-84e9-703a9bd7f3e1",
+    "provider": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "amount_per_reference": 0.00032599999999999996,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9c36427d-76de-314c-bfca-4d714b71c9a5",
+    "provider": "a941c19b-ed3f-34a9-a91b-ee31e2d6ac18",
+    "amount_per_reference": 0.6756756756756757,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9c36427d-76de-314c-bfca-4d714b71c9a5",
+    "provider": "a40d4e00-67c2-3f4c-8c2b-1c67a28e6c5c",
+    "amount_per_reference": 0.6756756756756757,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "9c36427d-76de-314c-bfca-4d714b71c9a5",
+    "provider": "fef4bce7-747e-30a8-adea-c11de716b08b",
+    "amount_per_reference": 0.6756756756756757,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "14b0912f-fb6d-321d-8f42-0ea35918689f",
+    "provider": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "amount_per_reference": 6.68e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "14b0912f-fb6d-321d-8f42-0ea35918689f",
+    "provider": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "amount_per_reference": 0.000269,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "14b0912f-fb6d-321d-8f42-0ea35918689f",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.000105,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "14b0912f-fb6d-321d-8f42-0ea35918689f",
+    "provider": "dacaeae9-aeed-3366-912d-6a31de09eef9",
+    "amount_per_reference": 0.00022,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "a40d4e00-67c2-3f4c-8c2b-1c67a28e6c5c",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 2.6600000000000003e-05,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fef4bce7-747e-30a8-adea-c11de716b08b",
+    "provider": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "amount_per_reference": 0.000949,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fef4bce7-747e-30a8-adea-c11de716b08b",
+    "provider": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "amount_per_reference": 0.00648,
+    "decision": "default provider"
+  },
+  {
+    "consumer": "fef4bce7-747e-30a8-adea-c11de716b08b",
+    "provider": "dacaeae9-aeed-3366-912d-6a31de09eef9",
+    "amount_per_reference": 0.0010400000000000001,
+    "decision": "default provider"
+  }
+]

@@ -1,0 +1,161 @@
+{
+  "status": "calculated_assumption_based_incomplete_three_gas_screening",
+  "functional_unit": "one manufactured and packaged BC1 1 L kettle",
+  "three_gas_gwp100_subtotal_kg_co2_eq": 4.4319775499102425,
+  "not_a_complete_cradle_to_gate_gwp": true,
+  "gas_inventory_kg": {
+    "carbon dioxide (fossil)": 4.110708720268494,
+    "methane (fossil)": 0.009175292528818092,
+    "nitrous oxide": 0.0001752568215493393
+  },
+  "characterization_factors": {
+    "carbon dioxide (fossil)": 1.0,
+    "methane (fossil)": 29.8,
+    "nitrous oxide": 273.0
+  },
+  "process_count": 201,
+  "technosphere_residual_max": 4.440892098500626e-16,
+  "contribution_sum_check": true,
+  "contributions_kg_co2_eq": {
+    "BOM01": 1.4630036128671435,
+    "BOM02": 0.042368265,
+    "BOM03": 0.0313839,
+    "BOM04": 0.8481598813747482,
+    "BOM05": 0.15829957320688565,
+    "BOM06": 0.1198684200658104,
+    "BOM07": 0.023610446376599023,
+    "BOM08": 0.016345693645337785,
+    "BOM09": 0.10344993206584205,
+    "BOM10": 0.029059010925044974,
+    "BOM11": 0.019257766626406946,
+    "BOM12": 0.323008283925009,
+    "plastic_conversion": 1.0130378097879735,
+    "metal_fabrication": 0.12477814543822258,
+    "film_conversion": 0.003553004819257866,
+    "assembly": 0.11279380378596401
+  },
+  "foreground_energy_kwh": {
+    "plastic_conversion": 0.8981325000000001,
+    "metal_fabrication": 0.110625,
+    "film_conversion": 0.00315,
+    "assembly": 0.1
+  },
+  "material_assumptions": [
+    {
+      "material_id": "BOM01",
+      "material": "Stainless steel",
+      "mass_kg": 0.186,
+      "purchase_multiplier": 1.0,
+      "provider": "49f5324b-fc33-36e9-b5af-3c80d73492bd",
+      "proxy_rationale": "Stainless 304 coil proxy"
+    },
+    {
+      "material_id": "BOM02",
+      "material": "Brass",
+      "mass_kg": 0.02025,
+      "purchase_multiplier": 1.0,
+      "provider": "tg:copper",
+      "proxy_rationale": "100% cathode copper proxy for brass; no alloy-composition claim"
+    },
+    {
+      "material_id": "BOM03",
+      "material": "Copper",
+      "mass_kg": 0.015,
+      "purchase_multiplier": 1.0,
+      "provider": "tg:copper",
+      "proxy_rationale": "Cathode copper; fabrication added as electricity proxy"
+    },
+    {
+      "material_id": "BOM04",
+      "material": "Polypropylene (PP)",
+      "mass_kg": 0.35025,
+      "purchase_multiplier": 1.034,
+      "provider": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+      "proxy_rationale": "Virgin PP resin"
+    },
+    {
+      "material_id": "BOM05",
+      "material": "Polyvinyl chloride (PVC)",
+      "mass_kg": 0.0435,
+      "purchase_multiplier": 1.034,
+      "provider": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+      "proxy_rationale": "Suspension PVC resin; additives excluded"
+    },
+    {
+      "material_id": "BOM06",
+      "material": "Nylon, grade unspecified",
+      "mass_kg": 0.0495,
+      "purchase_multiplier": 1.034,
+      "provider": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+      "proxy_rationale": "PP proxy for unspecified nylon; low material fidelity"
+    },
+    {
+      "material_id": "BOM07",
+      "material": "Polyoxymethylene (POM)",
+      "mass_kg": 0.00975,
+      "purchase_multiplier": 1.034,
+      "provider": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+      "proxy_rationale": "PP proxy for POM; low material fidelity"
+    },
+    {
+      "material_id": "BOM08",
+      "material": "Polycarbonate (PC)",
+      "mass_kg": 0.00675,
+      "purchase_multiplier": 1.034,
+      "provider": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+      "proxy_rationale": "PP proxy for PC; low material fidelity"
+    },
+    {
+      "material_id": "BOM09",
+      "material": "Acrylonitrile-butadiene-styrene (ABS)",
+      "mass_kg": 0.03,
+      "purchase_multiplier": 1.034,
+      "provider": "0e42a306-ee2d-362e-8bc3-580000096459",
+      "proxy_rationale": "ABS resin"
+    },
+    {
+      "material_id": "BOM10",
+      "material": "Silicone",
+      "mass_kg": 0.012,
+      "purchase_multiplier": 1.034,
+      "provider": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+      "proxy_rationale": "PP placeholder proxy for silicone; chemically unsuitable for definitive conclusions"
+    },
+    {
+      "material_id": "BOM11",
+      "material": "LDPE packaging foil",
+      "mass_kg": 0.0063,
+      "purchase_multiplier": 1.0,
+      "provider": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+      "proxy_rationale": "LDPE resin; film electricity added"
+    },
+    {
+      "material_id": "BOM12",
+      "material": "Cardboard packaging",
+      "mass_kg": 0.1315,
+      "purchase_multiplier": 1.0,
+      "provider": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+      "proxy_rationale": "Corrugated product proxy for cardboard; conversion included"
+    }
+  ],
+  "cutoff_record_count": 635,
+  "uncharacterized_record_count": 8612,
+  "assumptions": [
+    "Missing plastics use virgin PP as a deliberately coarse placeholder; silicone proxy is not chemically representative",
+    "Brass uses cathode copper proxy, not assumed measured alloy composition",
+    "All missing electricity and foreground electricity use actual USLCI bituminous coal power; no national-grid claim",
+    "Plastic conversion 1.79 kWh/kg and purchase factor 1.034 adopted from USLCI PP molding; generalized to other plastic components",
+    "Metal fabrication 0.5 kWh/kg; film conversion 0.5 kWh/kg; assembly 0.1 kWh/kettle are user-authorized analyst assumptions",
+    "No additional site transport; no consumer use or product end-of-life",
+    "Unresolved upstream exchanges and production-waste services explicitly excluded; upstream closure incomplete",
+    "Only air-emission fossil CO2, fossil CH4 and N2O characterized; other greenhouse gases omitted from subtotal",
+    "Generic air CO2 and CH4 treated fossil; biogenic/resource flows outside subtotal",
+    "Use archived TianGong method values as-is despite conflicting source-year labels; do not claim certified IPCC/EF version",
+    "As-delivered unit datasets treated as preallocated; no additional coproduct credits; system-model harmonization not established"
+  ],
+  "source_commit": "83f722d2c97ca784e3d258ab51ec4f6804625c1f",
+  "method_uuid": "6209b35f-9447-40b5-b68c-a1099e3674a0",
+  "method_version": "01.00.000",
+  "tian_gong_copper_uuid": "6d390a38-8a3d-410c-8192-60b70b0bd286",
+  "tian_gong_copper_sha256": "e21c56d875558f36d00a6c77c78405d69644ae3a588edfda84e07c25e1353a75"
+}

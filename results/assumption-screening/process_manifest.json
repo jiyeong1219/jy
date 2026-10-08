@@ -1,0 +1,1208 @@
+[
+  {
+    "id": "49f5324b-fc33-36e9-b5af-3c80d73492bd",
+    "name": "Steel, stainless 304, flat rolled coil",
+    "version": "00.01.011",
+    "sha256": "c21f00e32026e380342e7d617afd5d02d702640cf49e810b01959e2891c012bd"
+  },
+  {
+    "id": "2e8facf6-46aa-4ddb-95de-a4e2a00eb2bb",
+    "name": "Polypropylene, PP, virgin resin, at plant",
+    "version": "00.01.004",
+    "sha256": "e9f8c7a7faa8010733685802a2fa14052f9cec91b99bfc1c2567c7e0ee071b06"
+  },
+  {
+    "id": "3dbccdda-2014-4239-ad1f-4e15c034942b",
+    "name": "Polyvinyl chloride resin, suspension grade PVC; at plant",
+    "version": "00.01.007",
+    "sha256": "27510988dd5d6947ef5b74ea6ffb15d87649877e2e21ac8b872f24ecf8e26993"
+  },
+  {
+    "id": "0e42a306-ee2d-362e-8bc3-580000096459",
+    "name": "Acrylonitrile-butadiene-styrene, ABS, copolymer resin, at plant",
+    "version": "00.01.002",
+    "sha256": "776d59b892239eeeb385aab9015f6b8ccfce39830b774f45c7e2186a505173c4"
+  },
+  {
+    "id": "6a12cba1-889d-4515-90f8-89feb8d662f2",
+    "name": "Polyethylene, low-density, LDPE, virgin resin, at plant",
+    "version": "00.01.003",
+    "sha256": "1a2ea8a3f017f644d2d18d7a31fa1bdb5542260b96b9c571b36ebdcc9f7ec889"
+  },
+  {
+    "id": "226ed3c2-e020-4c95-b1fc-4559fc2d18ac",
+    "name": "Corrugated product, average production, at mill",
+    "version": "00.01.003",
+    "sha256": "f970b6fc9d7a9305492bc878c3a773d4e59e14e9b49990d9ddae491e7e4b19b3"
+  },
+  {
+    "id": "66280f03-b26f-35c4-bda2-3d4a8652943a",
+    "name": "Electricity, bituminous coal, at power plant",
+    "version": "00.00.006",
+    "sha256": "9d98ade93c556a194b7ae75297df8e60b24e4fe9c265fbb9f5dedc182e6507d0"
+  },
+  {
+    "id": "34897ebd-aa3d-347c-91ee-876c3f835fdb",
+    "name": "Steel, stainless 304, scrap",
+    "version": "00.01.011",
+    "sha256": "a3e2cc004b725213ed6ce06ea89b25e7e50fb6e36ae8c01b4458f1b453c68e1e"
+  },
+  {
+    "id": "ee8077d4-d28c-46c4-9f15-5b22bce6063d",
+    "name": "Natural gas, production mixture, at processing",
+    "version": "00.01.001",
+    "sha256": "689a7ec5c23d2eb9f86b63e121c8f136ac944fb61063bf9cb589881abd10427a"
+  },
+  {
+    "id": "57cdac3b-a289-330e-8e55-6b7e2c6885fb",
+    "name": "Transport, pipeline, natural gas",
+    "version": "00.00.006",
+    "sha256": "13c2cf591a7297b4d2c99d0819461e90fddcd21c6627c668540f1d96556f1189"
+  },
+  {
+    "id": "e6586e69-95a4-3396-a934-f379fbdd28f4",
+    "name": "Electricity, at cogen, for natural gas turbine",
+    "version": "00.00.010",
+    "sha256": "56beff4568dbd33cb9676ea4fb2d2c848a5f5fe182830d460714648bced7f490"
+  },
+  {
+    "id": "49d309a8-0c93-4eeb-a342-2fe2254a0bec",
+    "name": "Propylene, materials production, organic compound, at plant, kg",
+    "version": "00.01.002",
+    "sha256": "09078775ba7ba7d5fd3f6e5fc47edc2c17078b3db74cba4140f570de0c7bcf49"
+  },
+  {
+    "id": "f347daea-82be-4e62-8872-a0dc0ca24ca3",
+    "name": "Natural gas, combusted in industrial boiler",
+    "version": "00.00.012",
+    "sha256": "dc0a402666363b90a4a23ec88e7c96202a601de54a4bf2c2f7b85a6789705e65"
+  },
+  {
+    "id": "45b70b50-20a0-341b-8e2f-c196974d1541",
+    "name": "Transport, single unit truck, diesel powered",
+    "version": "01.00.001",
+    "sha256": "cacafd8916f41ec373804037ee1f82f18d13f02dc97bd1917edcd75b92544a9a"
+  },
+  {
+    "id": "7de9c230-fd0f-3478-be87-f80181132faa",
+    "name": "Transport, train, diesel powered",
+    "version": "00.00.016",
+    "sha256": "adb9d7b8785293fd374df4d9bd04c39b23787269c60daf1b370d5430fe6009ff"
+  },
+  {
+    "id": "53bb995e-2b64-4464-87f4-a3b79dcd1c32",
+    "name": "Ethylene dichloride-vinyl chloride monomer, EDC-VCM; at plant",
+    "version": "00.01.007",
+    "sha256": "03ece9a7dc82607914f6deffa07d284100ed7fbf423c08cfb8f9ef58688e4265"
+  },
+  {
+    "id": "a3e150d0-770e-4e2a-9b19-f7daa8cda38b",
+    "name": "Chlorine; chlor-alkali electrolysis; at plant",
+    "version": "00.01.017",
+    "sha256": "774f925387dac35fe3763fd9237b6092dd9951112dbea75601417db6d05e321f"
+  },
+  {
+    "id": "1e2429d8-8d91-328f-85c3-18d39bdebfa7",
+    "name": "Transport, ocean freighter, average fuel mix",
+    "version": "00.00.007",
+    "sha256": "f79c529307ab42a5451188a39429231458ba84cfbcaa7be2509e630dfe8fcb50"
+  },
+  {
+    "id": "1b6afe73-a064-33a3-87b0-265ae10851e9",
+    "name": "Sulfuric acid, at plant",
+    "version": "00.00.008",
+    "sha256": "9db32dde7cb81b8c1887028c939f4b76f6514d1836533130563f8493c3bb6a85"
+  },
+  {
+    "id": "099c3d09-08a3-3cac-9ffd-0558c12033b9",
+    "name": "Transport, barge, average fuel mix",
+    "version": "00.00.007",
+    "sha256": "01750acd6100b6db52f85d256fb5a400216b094120162aed601a9c34a86e7d33"
+  },
+  {
+    "id": "dce702f1-03a1-3fe9-bb48-94a5217fd8cb",
+    "name": "Transport, combination truck, average fuel mix",
+    "version": "00.00.003",
+    "sha256": "e293612c11c245a3a09a270390854ea60a89bce1cc3a7555b0435959e74d79b0"
+  },
+  {
+    "id": "13abc978-777f-4929-9990-4f53976d032f",
+    "name": "Acrylonitrile; at plant",
+    "version": "00.01.002",
+    "sha256": "d4856db8192b4a9661d55a38513d9b70df2ed8086a663526861efad9573d8bf6"
+  },
+  {
+    "id": "0855376f-1ec5-3f3e-bead-959c932539b7",
+    "name": "Transport, pipeline, unspecified petroleum products",
+    "version": "00.00.006",
+    "sha256": "2ef74d03c2cf44eb34a5e1c1945e03f727f98fc0085c9729e4d535c79592f406"
+  },
+  {
+    "id": "d3e13675-1455-375f-a557-bb8234de75ff",
+    "name": "Gasoline, combusted in equipment",
+    "version": "00.00.005",
+    "sha256": "6c19d9b1d719a90eed7926e7e9c02f0c3f3a5658442dc655ce4c56ec75db3c61"
+  },
+  {
+    "id": "4eec7a31-b920-3f91-b7c3-924f2aa92ecc",
+    "name": "Liquefied petroleum gas, combusted in industrial boiler",
+    "version": "00.00.006",
+    "sha256": "48185cc00a3cf65b1bab1e3c018a126402085f95096cbb6831f88a471490e458"
+  },
+  {
+    "id": "fa60e60f-73f0-3e20-bb3a-073e4a9469cc",
+    "name": "Polybutadiene, butadiene rubber; at plant",
+    "version": "02.01.001",
+    "sha256": "e98eaf887b291dff516019316cf83fb98c8e2803d3830393400750e7ca2c2552"
+  },
+  {
+    "id": "34156f3c-28ef-33db-9ad0-6293a2aa0d52",
+    "name": "Transport, combination truck, diesel powered",
+    "version": "01.00.001",
+    "sha256": "268bc07c59e753d3ad38a2b4a5f2c6c57f30d6c1945301a7886adda4f5b765d0"
+  },
+  {
+    "id": "e2884390-2613-3d46-81d2-6051ecadc9c2",
+    "name": "Styrene; at plant",
+    "version": "02.01.003",
+    "sha256": "28f71acb5d44cf0821b51d08480c54f8114d67140e8c10c3d9dddbc7ea614ca8"
+  },
+  {
+    "id": "d6ad7035-5498-3237-8abd-50e93b1eef89",
+    "name": "Diesel, combusted in industrial equipment",
+    "version": "00.00.005",
+    "sha256": "b70f1f17e549dac420e6c9c17d5b8c288696ee80119ebd5008ef9144411f3293"
+  },
+  {
+    "id": "520ecb54-7b55-42ca-97c3-4b8192189356",
+    "name": "Ethylene, materials production, organic compound, at plant, kg",
+    "version": "00.01.002",
+    "sha256": "d41315ae7a526b00fd4345084e0f1b6a5b8b85019b16c434c40ca753b74fa1d6"
+  },
+  {
+    "id": "c245a252-0860-41d2-9789-802bab7984ab",
+    "name": "Containerboard, average production, at mill",
+    "version": "00.01.010",
+    "sha256": "085220b5e3512b480143d889115a57b48ff1934f600eb54f690c6d4b683e9105"
+  },
+  {
+    "id": "c2300fc3-5496-3d12-9135-67dc0ef740c9",
+    "name": "Transport, barge, diesel powered",
+    "version": "00.00.009",
+    "sha256": "accb9a4583692fbfb8047622d547d61e08ee5089d9cd50a5d76b06dfd1761271"
+  },
+  {
+    "id": "0aaf1e13-5d80-37f9-b7bb-81a6b8965c71",
+    "name": "Petroleum refining, at refinery",
+    "version": "00.01.002",
+    "sha256": "2f808e5c21f3a97ecf99f634e08851aebcfe38ffc0b8c537ad8b9ffaf19ef5c5"
+  },
+  {
+    "id": "1e4fd434-9cd2-402a-8ebf-43891d0dd591",
+    "name": "Steam, purchased by containerboard mills",
+    "version": "00.01.001",
+    "sha256": "fda57edfff17d2794bbda735a67c4441c0f9de6e61350eb7abf6755b70c7e35b"
+  },
+  {
+    "id": "317adcbc-b3e3-3ec3-80c3-82b18d0f3207",
+    "name": "Bituminous coal, at mine",
+    "version": "00.01.002",
+    "sha256": "4d2545550f696dfef1ff8219125eef79e2d70b24a241af304cd8153e66691a16"
+  },
+  {
+    "id": "8dcef86f-cf2c-4207-91aa-1398401fe8b7",
+    "name": "Natural gas, at processing, conventional, kg",
+    "version": "00.01.002",
+    "sha256": "ea9d6285198d1824af377f87c12c0e4fc635ec0b2f47af7d5dca722c13ec9c62"
+  },
+  {
+    "id": "7bfdfa88-b857-4a4a-bbb9-3f51ddc15d30",
+    "name": "Natural gas, at processing, shale, kg",
+    "version": "00.01.002",
+    "sha256": "a769e73ab379196f3d4bc731f1f28038668fa2bf196a0996b69ce546e746c01b"
+  },
+  {
+    "id": "b355f122-dc4e-4224-aafa-d43c3b57db7b",
+    "name": "Natural gas, combusted in industrial equipment",
+    "version": "00.00.009",
+    "sha256": "cc2382a1e49079550f82ce5db2942300b63895393745e5de3a80ae35c20580b5"
+  },
+  {
+    "id": "29d771d7-71ec-3a22-bbd0-8709d5a328e2",
+    "name": "Natural gas, combusted in industrial boiler, at hydrocracker, for ethylene",
+    "version": "00.00.010",
+    "sha256": "dedab542d3df05aba1013fc30f8c6361bb84054ffe0f45585e3a6b36cac355e0"
+  },
+  {
+    "id": "9d9b6815-9349-30af-869b-57362428c42e",
+    "name": "Residual fuel oil, combusted in industrial boiler",
+    "version": "00.00.006",
+    "sha256": "bb92ff6bb48bacf01de0c97c469ffa887955a2f80ab3b6c7cf0726e2153b4c3a"
+  },
+  {
+    "id": "70d2004a-9f80-48ce-a86c-50e85dd6a637",
+    "name": "Petroleum refined, for material use, at plant",
+    "version": "00.00.011",
+    "sha256": "c9ef42d336d9838e463fd2aa42c82149880eceabfc3bf382ea1a042d39d297be"
+  },
+  {
+    "id": "d3db6ab2-33de-453b-ac74-0567ba7fa95b",
+    "name": "Natural gas, processed, for energy use, at plant",
+    "version": "00.00.007",
+    "sha256": "1bd2c111f16a86b5da44ca80f92e6a783150b72edf69bf010d309e030a4d2a61"
+  },
+  {
+    "id": "3ca7a144-e2f3-4963-8c63-768cf0853cee",
+    "name": "Petroleum refined, for energy use, at plant",
+    "version": "00.00.010",
+    "sha256": "d62b1ef5061fa8e642251661fe1338f0b28f35a0fe332e62a7afe72bf66feb8d"
+  },
+  {
+    "id": "a8b6bb7c-0274-41de-8385-ef5f8a03f9bf",
+    "name": "Natural gas, processed, for material use, at plant",
+    "version": "00.00.005",
+    "sha256": "76b285501b0bbf5e9dd96a4b2735aa54bff080f81c958e66d86650593e76c8fe"
+  },
+  {
+    "id": "0d4adbb3-81bb-45c5-bf26-734c76ff3108",
+    "name": "Hydrochloric acid, HCl; MDI coproduct; at plant, 100% HCl",
+    "version": "02.01.004",
+    "sha256": "78b8132c0a4221a87c748282a2ae1a1f945cf1f2d489304b02a85e55481bc6d2"
+  },
+  {
+    "id": "49e563d8-0cea-3f97-96b8-15787be48b91",
+    "name": "Limestone, at mine",
+    "version": "00.00.007",
+    "sha256": "f25b818053b1d075dd3e4807674f3243b555b95eac8921925642fbe9f4de975a"
+  },
+  {
+    "id": "7a2565f8-4a48-3263-9bc9-bcb28dbd58ad",
+    "name": "Oxygen, liquid, at plant",
+    "version": "00.00.005",
+    "sha256": "b5ed707f11be0c1c2dd058d06a57adb03480067989c72ba29ed6edacde3e9614"
+  },
+  {
+    "id": "e0368d96-44a3-3628-8220-e6ae975b0931",
+    "name": "Carbon monoxide, at plant",
+    "version": "00.00.011",
+    "sha256": "2afa4ad3d3b0dbca307c30a9b5d7659c05155e19d6fca5900cddabfa979bef37"
+  },
+  {
+    "id": "86f13a15-a773-4945-8b1a-46158a77d131",
+    "name": "Sodium hydrogen Sulfite, 40% in solution Bridge; USLCI to USEEIO",
+    "version": "00.00.006",
+    "sha256": "d7b639a3a2c11c5f14a9901fd0277ebe41a64da4762638bd36b2e49be53616e6"
+  },
+  {
+    "id": "f9cf891e-fd8c-304c-9707-4a7e390b9e75",
+    "name": "Paper, bag and sack, unbleached kraft, average production, at mill",
+    "version": "00.01.006",
+    "sha256": "d46dcba87b08a1fb6a97dddfb26846e8acbc7302dd2ba5f005947f9765c8db76"
+  },
+  {
+    "id": "2a78de43-fdf2-4c5f-b527-89db6568ace8",
+    "name": "Ethylene glycol, materials production, organic compound, at plant, kg",
+    "version": "00.01.004",
+    "sha256": "78026683a2b35570999f15b2a4ce15b654b6efcbb7f887f01c8dd855cc1413a8"
+  },
+  {
+    "id": "5dacfb93-571f-3502-bf9e-1ce678de151d",
+    "name": "Sodium chloride, at plant",
+    "version": "00.00.008",
+    "sha256": "3d1978cb0a618b8aacf9db47e6bef1ab0d13a1ab554831fe00395a24fa334688"
+  },
+  {
+    "id": "33f08f48-349e-31f1-b600-aa7e9713ca50",
+    "name": "Ammonia, steam reforming, liquid, at plant",
+    "version": "00.00.012",
+    "sha256": "d3cba64eea1365d243a07c9a357f635b3a22deb9449882a67dae0a65f895c5fa"
+  },
+  {
+    "id": "f85fcdde-6c6b-3bbb-8efc-de6cb34c9ac7",
+    "name": "Transport, ocean freighter, residual fuel oil powered",
+    "version": "00.00.016",
+    "sha256": "c17aa0309e36984622a7e47e1e140c242198fbc456a8ff04bf00b0d3576dc8da"
+  },
+  {
+    "id": "da0f5501-f4ab-32d1-80b7-b70d143608f6",
+    "name": "Transport, ocean freighter, diesel powered",
+    "version": "00.00.018",
+    "sha256": "2dd2f15617a679848218b3eed948d6fb77309afed7cfe5d03385e0455e23fd9b"
+  },
+  {
+    "id": "dfa7acbc-4a41-3329-951d-b6cde899c91e",
+    "name": "Sulfur, at plant",
+    "version": "00.00.012",
+    "sha256": "171760e0780a4da42ee52872f5213a2dbe3ef4f61589e85132f3cbf232da9a10"
+  },
+  {
+    "id": "eaff3c91-b8ce-38a1-a3ba-1fe0c9d4041c",
+    "name": "Transport, barge, residual fuel oil powered",
+    "version": "00.00.010",
+    "sha256": "985770455684aa85a0ea312dc9448efbe0e2e92eab1202500d1b5a6c64029d8a"
+  },
+  {
+    "id": "26465530-69ff-3c68-834f-c67ccb6ee1b2",
+    "name": "Bituminous coal, combusted in industrial boiler",
+    "version": "00.01.004",
+    "sha256": "660fd4f0c6c22999d83b70cfa85d41e5fb2798addacccfd90cbefd8b7529fb3e"
+  },
+  {
+    "id": "5d274fc8-65f3-3f3a-a583-f12cace7c494",
+    "name": "Butadiene, at plant",
+    "version": "00.00.012",
+    "sha256": "c25e15c986ad32ea7469cfcaeee85850260d58495470e391baa98768649ac660"
+  },
+  {
+    "id": "e07beee7-4b4c-350a-bcaf-ec71882bbb69",
+    "name": "Benzene, at plant",
+    "version": "00.00.015",
+    "sha256": "b7bad3629171872f52aa15858c7636e57badaf935ab745902e8c4dea75223784"
+  },
+  {
+    "id": "515c5359-a186-3394-b849-8676652228db",
+    "name": "Forest residue, processed and loaded, at landing system",
+    "version": "00.03.034",
+    "sha256": "8db21cfe154cdbc7c4ffebf15b3176ce68bbcc5593c316ab70c722bd1392cefc"
+  },
+  {
+    "id": "5dd973e3-0fc2-38d8-a25b-51b82ee2c2de",
+    "name": "Wood fuel, unspecified",
+    "version": "00.01.006",
+    "sha256": "7a0a4136ccbf46cd8c53cac1d1d6c76ced4e7fa559ef685e3a7d6251899bea00"
+  },
+  {
+    "id": "a69b6a20-acd3-489b-b3e1-bb7ef0615618",
+    "name": "Aluminium sulphate, powder Bridge; USLCI to USEEIO",
+    "version": "00.00.005",
+    "sha256": "0b96e4b4cf9483220da32f3a0ff44ad9189dfca46b450410fb99276413074f19"
+  },
+  {
+    "id": "ce587724-1be4-3da0-b7a2-988592c28b9a",
+    "name": "Sawn lumber, hardwood, rough, green, at sawmill, SE",
+    "version": "00.00.034",
+    "sha256": "f73aeb0be8f455d206efa74dc50fecdb4b0981d0fa70343d4d3af961de50d368"
+  },
+  {
+    "id": "9c0c2415-126f-3162-8479-f002f315a8c7",
+    "name": "Quicklime, at plant",
+    "version": "00.00.008",
+    "sha256": "45ff6237557eba1c67c286482bd67a01ab5e7612689a10216e167e60f7b3288b"
+  },
+  {
+    "id": "6ce2af92-11dd-3e96-8f77-4d215ac13b96",
+    "name": "Melamine urea formaldehyde, MF, resin, neat, 60% solids",
+    "version": "00.00.019",
+    "sha256": "ff4ef3493e61bd50ff7113e1dbc4c920d98d8f2397721ff305d6467c460e7031"
+  },
+  {
+    "id": "cbf4023b-71f7-36b7-8c45-ea43bc2f108c",
+    "name": "Pulp, kraft market, bleached, average production, at mill",
+    "version": "00.02.008",
+    "sha256": "b7b50c81c53358a7da7e92ec660fa6de4e84655628bd39ab013d0cac88335cc5"
+  },
+  {
+    "id": "4cb0c558-b0ac-3656-bc1f-95b477c14921",
+    "name": "Soda powder, at plant",
+    "version": "00.00.008",
+    "sha256": "da0c999d2b2d04413b1cccfc4727e83562f6783f8bb941b4ae46363345ef98f7"
+  },
+  {
+    "id": "4eaec911-05e8-304e-b7a6-98ce06fc9820",
+    "name": "Hydrogen, liquid, synthesis gas, at plant",
+    "version": "00.00.009",
+    "sha256": "a957e2a730e927014bec4520926a0603b3aeb60a78b3c33b57da5ff8357eec73"
+  },
+  {
+    "id": "e53e0de4-6c90-3519-850b-eb670f2c641b",
+    "name": "Crude oil, production mixture, at extraction",
+    "version": "00.01.001",
+    "sha256": "e34b7c291ea239f58153b8a5f4ec006129eed40615a1d7340635b06950291f74"
+  },
+  {
+    "id": "64c379de-b24a-36d0-9170-d61d9d9d7278",
+    "name": "Ethanol, 85%, at blending terminal, 2022",
+    "version": "00.00.008",
+    "sha256": "49fa754f1bd0238eeedcbc2289b558f66461c16fb17e1654137fcee4c691aaf5"
+  },
+  {
+    "id": "f3929bea-4d5f-4691-9aef-aa95392ba015",
+    "name": "Hydrogen Fluoride Bridge; USLCI to USEEIO",
+    "version": "00.00.004",
+    "sha256": "6c31b9f7679544856be402ca310ba45944ba1ee5c1f60a7fc6860aa380dfa9ba"
+  },
+  {
+    "id": "1b0f75b8-e749-3eb2-8727-de6a22f60646",
+    "name": "Lignite coal, combusted in industrial boiler",
+    "version": "00.01.004",
+    "sha256": "c3a87f55a78139ac1c9ee606d8e721d8dae2e2a7ceca8dd94c78e3f0bccdfc2b"
+  },
+  {
+    "id": "3455f918-4a43-3b09-b06e-7402c12b8d45",
+    "name": "Wood waste, unspecified, combusted in industrial boiler",
+    "version": "00.01.005",
+    "sha256": "3278f7387a6f693861debb5d7a1ccfa6647ab11f29f5b5213838ee484a5380c7"
+  },
+  {
+    "id": "53804132-4bd6-3b18-bfbd-14ac762431ef",
+    "name": "Diesel, combusted in industrial boiler",
+    "version": "00.00.009",
+    "sha256": "db0eff8be5ba0c30d1c739dad55e17479fd06450055c0cc63e46756e0d66de91"
+  },
+  {
+    "id": "058ef703-9452-44a8-84e6-d14551e61713",
+    "name": "Natural gas, production mixture, at extraction",
+    "version": "00.01.001",
+    "sha256": "7bbbb18429cefe806517902bbe463858c671563e85235dc8b01cdaf8b9730f70"
+  },
+  {
+    "id": "a591c53f-ce67-41da-b0c1-65b6d91a1a43",
+    "name": "Steel; hot rolled coil, at plant",
+    "version": "00.01.010",
+    "sha256": "3c999b7ba420d2b47f3baf27db87b056e16138ba3f39bebb7e8f5049a1e437dd"
+  },
+  {
+    "id": "1dbafde2-2bc3-405c-9726-4d92fe7d29f9",
+    "name": "Polyethylene, linear low-density, LLDPE, virgin resin, at plant",
+    "version": "00.01.003",
+    "sha256": "0b6523f198c179558c8b51584b4732f4a561d71d8806f39f2f536d3d94fb3105"
+  },
+  {
+    "id": "91beb684-4d04-38b9-8800-a274762a9d44",
+    "name": "Alumina, at plant",
+    "version": "00.02.015",
+    "sha256": "06c28b4f28049803fc8dfd71b75d9fb17312beef67de05702080931dc6597db6"
+  },
+  {
+    "id": "85cc9ce7-c801-36bd-ac92-2bb7bf7b5209",
+    "name": "Fuels, burned at unbleached kraft bag sack paper, average production, at mill",
+    "version": "00.01.002",
+    "sha256": "e5a98762e54b0dddb49b7232d17a5314ff25ee9e4eeacff1c081f0ab0ce7391b"
+  },
+  {
+    "id": "0d95cc8b-a9a0-3630-a760-1ab4d88257d8",
+    "name": "Natural soda ash (Sodium carbonate), at plant",
+    "version": "00.01.007",
+    "sha256": "d79883807a36144e8f938109c7f7edb66239bfd33957e123643c27600c2edd95"
+  },
+  {
+    "id": "f8513ce4-7415-4495-9d10-5957ab21af04",
+    "name": "Drinking water treatment; U.S. Average Treatment; at consumer",
+    "version": "00.00.004",
+    "sha256": "21a752680b355330189bbc22832f4cd259c55050e75b7a72c3fa0f58cf134d08"
+  },
+  {
+    "id": "39abf743-0b9e-33e3-8752-b418609504f1",
+    "name": "Natural gas, combusted in industrial boiler, at hydrocracker, for butadiene",
+    "version": "00.00.007",
+    "sha256": "368af32aef6b44bbb7eecb74dd433f6bde263ba1862f8730f11686b476ef9f76"
+  },
+  {
+    "id": "19b638bc-033c-3812-a020-18eb2ff8e8eb",
+    "name": "Pyrolysis gasoline, at plant",
+    "version": "00.00.014",
+    "sha256": "10c34a84c051e79523d244ace3ab776be6ae8ef52d0e021117afd5db5507db15"
+  },
+  {
+    "id": "d85c6177-4580-35f0-afd6-52125ababf10",
+    "name": "Heat, onsite boiler, hardwood mill, average, SE",
+    "version": "00.00.018",
+    "sha256": "1b75eb18e9d8358b6eb9740898b3e6a0be1c85e5cf7ef5ab81a0f6bae96d9e47"
+  },
+  {
+    "id": "4a42fda8-640a-3152-9741-f64c558be34d",
+    "name": "Roundwood, hardwood, green, at logyard, SE",
+    "version": "00.00.022",
+    "sha256": "3387bb2d42748b23645d4cfa8e1c55af35d8f2d1c3542a96cb6092bc568deade"
+  },
+  {
+    "id": "3a287ab1-de41-3e89-bf5a-be7f3b97281b",
+    "name": "Melamine urea formaldehyde, MF, hardener, at plant",
+    "version": "00.00.009",
+    "sha256": "d101d87a23180ef0f7091c16b5912096c8e10f47c9dce2dab5d0d87d70221f93"
+  },
+  {
+    "id": "6b0d74c7-e880-4b93-aa2f-b777ac183f84",
+    "name": "Methanol, at plant, kg",
+    "version": "00.01.002",
+    "sha256": "c731c49dca8b14313e1a909e982330b95907b6496563940cdffd641fecfbc6e2"
+  },
+  {
+    "id": "41c595b2-230b-3303-ac12-e059acd6312f",
+    "name": "Fuels, burned at bleached kraft market pulp mill, average production, at mill",
+    "version": "00.01.002",
+    "sha256": "6731f1b3071a3afdb1feadb2c9d76662b36895164dd905664d50033a45a91390"
+  },
+  {
+    "id": "bada054f-b912-3251-96c1-19e64cde8930",
+    "name": "Pulpwood, hardwood, average, at forest road, NE-NC",
+    "version": "00.00.008",
+    "sha256": "5484a9b535eb43f355d909739bf8858cc97e5cdcf607ea41a789668a7dd2b238"
+  },
+  {
+    "id": "906cf3a2-6299-3d9c-8a4b-1fe4240b71da",
+    "name": "Pulpwood, softwood, average, at forest road, NE-NC",
+    "version": "00.00.006",
+    "sha256": "d24f5a5a6698dc4dbb95488d09b7c69883bf7590891fff2140e262a8008ae9d1"
+  },
+  {
+    "id": "4a8e5076-be9b-37a6-8cc1-70ef1c80fce3",
+    "name": "Pulpwood, softwood, average, at forest road, INW",
+    "version": "00.00.007",
+    "sha256": "7bf1f961e6b60b8751cf48e3a35c694d28d78f267552e53316e10945a7819e4c"
+  },
+  {
+    "id": "ce83ed94-a5ea-47d4-a52f-43223b22247c",
+    "name": "Crude oil, off-shore import, at extraction",
+    "version": "00.01.003",
+    "sha256": "90f3470fc5a6d38c056c5ca68e40fa3e1a71e916661bc5045582a248a126a44d"
+  },
+  {
+    "id": "3dd5638d-cb25-4e78-90c7-8dd98188f733",
+    "name": "Crude oil, on-shore domestic, at extraction",
+    "version": "00.01.003",
+    "sha256": "9e2ef9fa911fda861e3f1310b18ba2de9bd2562776a52b1ea7bb2fe28de363d8"
+  },
+  {
+    "id": "fcbe548c-bcd5-40b2-979c-53df809835f9",
+    "name": "Crude oil, on-shore import, at extraction",
+    "version": "00.01.003",
+    "sha256": "6258f196ebde3dc120157c103bb61c9abe0141c2edcf0617099c1c9a97ac34dd"
+  },
+  {
+    "id": "76048c3b-d6d3-4f3b-8215-87ece218b4a2",
+    "name": "Crude oil, off-shore domestic, at extraction",
+    "version": "00.01.003",
+    "sha256": "67f1f3a85ab600277a2776277ab4496d5ccb2f331ae8480bc2a5351194c5b357"
+  },
+  {
+    "id": "da8e9d9f-c0e2-3c9b-9d0a-f7e5f1667639",
+    "name": "Ethanol, denatured, at refueling station, 2022",
+    "version": "00.00.006",
+    "sha256": "360a7fd045f3f5c1d7907db4057dee410c6ed15502341b9d6fea88ed56c97c76"
+  },
+  {
+    "id": "ae8c5758-4473-3791-9339-22ff52cacb23",
+    "name": "Lignite coal, at surface mine",
+    "version": "00.01.009",
+    "sha256": "af9df145834158d5865d01511dffda95faf3ba9819688c72b618dfbd3fa31c8a"
+  },
+  {
+    "id": "5b7c9f9b-8460-4afd-a560-b441f0fcf408",
+    "name": "Natural gas, Marcellus Shale, at extraction",
+    "version": "00.01.003",
+    "sha256": "5928f576bb5d3174224572ae8cdd7a9e447766ee50d2d0f57ee012b6d3914b59"
+  },
+  {
+    "id": "0945cc82-1126-45c3-b525-6d4fc913aa09",
+    "name": "Natural gas, coal bed methane, at extraction",
+    "version": "00.01.002",
+    "sha256": "8b076003ebb0a213518025ea9a0e71b5de2feb800ab6f67f6010f7fc8708b5d7"
+  },
+  {
+    "id": "bc4c2bad-4bdb-4402-8aed-74efc5781057",
+    "name": "Natural gas, conventional offshore, at extraction",
+    "version": "00.01.002",
+    "sha256": "6814003429374940e73453713c15671c2a35c622dc6dbf6ef39ae8fc5976fb10"
+  },
+  {
+    "id": "f2996639-3901-4d02-8046-4e647947b7cb",
+    "name": "Natural gas, conventional onshore, at extraction",
+    "version": "00.01.002",
+    "sha256": "ece9fbbe2eecf768eb23f0773b9372b968b06ebbf2dd210940262f91e3b6daba"
+  },
+  {
+    "id": "e7425edd-537c-497f-aa4b-7a8a79b1ab4a",
+    "name": "Natural gas, Barnett Shale, at extraction",
+    "version": "00.01.003",
+    "sha256": "52317307bc451b0a7897d7db63f4f5370b9ecd81aa2ac9a581a87219e0704238"
+  },
+  {
+    "id": "7ae49a74-3d24-4b32-ae19-ddbf6e0ae94a",
+    "name": "Natural gas, conventional onshore associated, at extraction",
+    "version": "00.01.002",
+    "sha256": "b7e7dfbdda9e060e9fdca060e9bc98fc5a15ffd90953cb910d5d0baa2ac82c58"
+  },
+  {
+    "id": "76a47261-8a9c-30a2-93a6-f5a029aded6f",
+    "name": "Bauxite, at mine",
+    "version": "00.01.007",
+    "sha256": "4ba5b94b7b851dc712f6f9cd4651dd7047b8306b0f2a0fcd4780247bdc9b13d9"
+  },
+  {
+    "id": "a6260670-e98e-3917-98bd-c14acb79fdf7",
+    "name": "Electricity, alumina refining regions",
+    "version": "00.00.013",
+    "sha256": "d9588708b5f89f72e5c5e2c64232c24804f6fd881c06ecc440cc26503611a353"
+  },
+  {
+    "id": "7ee5b4ca-1a5e-3d26-8e79-0805a115e444",
+    "name": "RFO, combusted in industrial boiler, at pulp and paper mill (EXCL.)",
+    "version": "00.01.001",
+    "sha256": "992cb1e46334eaf9e45b6ffcb6c8359bdbe4f5f221f32d0006d6adea9de15658"
+  },
+  {
+    "id": "7906c042-7330-3046-9b9a-92a4af4f2150",
+    "name": "Hog fuel, self-gen., combusted in ind. boiler, at pulp and paper mill (EXCL.)",
+    "version": "00.01.001",
+    "sha256": "c33370950ce3d437df7e5b57205b4ac00006931005532b99335ad0e8cca4dc05"
+  },
+  {
+    "id": "4d7e8233-af87-31fc-b497-592383d4008a",
+    "name": "Natural gas, combusted in industrial boiler, at pulp and paper mill (EXCL.)",
+    "version": "00.01.001",
+    "sha256": "18a1c4fa227603e2976f1bd3fc97793ec6f90816142a83d62a75bc0ad6f4ae2b"
+  },
+  {
+    "id": "0924e625-e201-374c-8628-0c44df929cdd",
+    "name": "Diesel, combusted in industrial boiler, at pulp and paper mill (EXCL.)",
+    "version": "00.01.001",
+    "sha256": "9070bf7ce064fccf94983c04fcfb390829dfc103896770634e3065dcdf912d0c"
+  },
+  {
+    "id": "accc6b3b-6793-3964-b89d-82066f6977fc",
+    "name": "Bituminous coal, combusted in industrial boiler, at pulp and paper mill (EXCL.)",
+    "version": "00.01.001",
+    "sha256": "9ea951b811d4f5cff30e30d7552c61772f696023951b8c70f2d1ac63e5c00a50"
+  },
+  {
+    "id": "d549cd32-3e84-327e-86e8-452772ff7c56",
+    "name": "LPG, combusted in industrial boiler, at pulp and paper mill (EXCL.)",
+    "version": "00.01.001",
+    "sha256": "a156585a3e52ae52d42325dca59b234b02a741ca97019de5a3295556430f5bd0"
+  },
+  {
+    "id": "32a3732b-30c8-3605-8306-ca12599f8e91",
+    "name": "Gasoline, combusted in equipment, at pulp and paper mill (EXCL.)",
+    "version": "00.01.001",
+    "sha256": "16fbc303894b716040491ad0509b9704d4b1835873de51e77e8416ebfd718332"
+  },
+  {
+    "id": "b6884185-30b8-391a-9dff-dbded4429a66",
+    "name": "Hog fuel, pur., combusted in industrial boiler, at pulp and paper mill (EXCL.)",
+    "version": "00.01.001",
+    "sha256": "0157c337f868ccf1e3e8181f88cbcd0e4f865509e61b977db5a198628be7353b"
+  },
+  {
+    "id": "88b44b36-2322-39a8-9c54-6b89b1b43cd4",
+    "name": "Iron and steel, production mix",
+    "version": "00.00.012",
+    "sha256": "db7494b7210f96d0f94c2e3a25551d7e72353c686de0c7e27f700ebadd52b25e"
+  },
+  {
+    "id": "fa3871c0-d563-3300-9ec7-f26aafdabfa5",
+    "name": "Propylene oxide, at plant",
+    "version": "00.01.004",
+    "sha256": "35625de7f05b5e664262ca6579fa6b9dce97390437af0989b3e2bb474ab796c6"
+  },
+  {
+    "id": "13821cca-f344-37b9-a367-0467be778061",
+    "name": "Polystyrene, general purpose, GPPS, resin; at plant",
+    "version": "02.01.002",
+    "sha256": "8cf385ae8a19d6ec0cdd9108b0722a96ea4ab75b3f1ead144996c2d551f7bce9"
+  },
+  {
+    "id": "6373ec73-ca57-47bd-8284-2f3cc25b8637",
+    "name": "Copper, at storage Bridge; USLCI to USEEIO",
+    "version": "00.00.004",
+    "sha256": "49d65e2db2fbd8f706cf6126fdd5164486ef9069dbabd8d23a00154e1e5cab2c"
+  },
+  {
+    "id": "1d7ac207-310f-3366-8f9c-e951b61d31ce",
+    "name": "Polyol ether, for rigid foam polyurethane production, at plant",
+    "version": "00.01.004",
+    "sha256": "fa520333ef7969bec75c83e148a0f699fe03127314caab5d2cd52f93e681f7b8"
+  },
+  {
+    "id": "62993671-574c-3fc5-b66a-6be3bb21ad3d",
+    "name": "Portland cement, at plant",
+    "version": "00.00.012",
+    "sha256": "599fb30a358bfb7d8d7d99f408ca21a838e1417783822ef98aa254628deaef1f"
+  },
+  {
+    "id": "23baebba-06e9-4bb0-9f98-ec855db2e600",
+    "name": "Gravel, unspecified Bridge; USLCI to USEEIO",
+    "version": "00.00.006",
+    "sha256": "a1d64ea4a843344dca43ab1a83072eeb211ffad5510938470d6edef9ffad7fac"
+  },
+  {
+    "id": "2712f03a-80fe-4a2b-9005-ca9ba99f7eb3",
+    "name": "Polyethylene, high density, HDPE, virgin resin, at plant",
+    "version": "00.01.003",
+    "sha256": "301429ac2265d35b84a9b44306ad9a1db0d5132877e1ed69efe5fb48b3a69078"
+  },
+  {
+    "id": "d1bf60a0-272b-3ef0-951c-7febc0546d58",
+    "name": "Methylene diphenyl diisocyanate, MDI; at plant, mass alloc",
+    "version": "02.01.004",
+    "sha256": "94ad2af32b1427c135734ab5982c27b178d9ef2d4d7b0b69259545872ef2472c"
+  },
+  {
+    "id": "8a0090ee-4054-322f-a65d-15c8ee6ca915",
+    "name": "Natural gas, combusted in industrial boiler, at hydrocracker, for pyrolysis gas",
+    "version": "00.00.008",
+    "sha256": "855bfa0162d614afcf5ffa21a4069ddcaeb58b963635f480bacfa55d407a30ed"
+  },
+  {
+    "id": "8a62a285-537e-36b0-bdc3-3af4bfd205a3",
+    "name": "Wood fuel, hardwood, generated at lumber mill, combusted in industrial boiler, SE",
+    "version": "00.02.011",
+    "sha256": "98363c8d70c4fc79922d72bc59cfd6b45eea54c5b5d1f48e53e424b3904124d8"
+  },
+  {
+    "id": "db291182-7d45-38c4-8529-a9abc78e55e9",
+    "name": "Wood fuel, hardwood, purchased, combusted in industrial boiler, SE",
+    "version": "00.01.006",
+    "sha256": "603d265bcc43c5b4b2184a762b0d9cb947d6e8fd503c11403ff2f61209fb7de0"
+  },
+  {
+    "id": "6baa9816-6151-3af1-b230-d28bebfb5227",
+    "name": "Roundwood, hardwood, green, at mill, SE",
+    "version": "00.00.011",
+    "sha256": "877e9a7de6243ac6f7ab4a52baf3563c5a52c35bcd31d8a469b59d58bdadf252"
+  },
+  {
+    "id": "a515132e-c816-34ea-9773-d56c11dc1cb0",
+    "name": "TDF, combusted in industrial boiler, at pulp and paper mill (EXCL.)",
+    "version": "00.01.001",
+    "sha256": "0ffc053720ec2d45d76a2f6b90460645d1d45e69fe5ac6fde7f2d305e02701bc"
+  },
+  {
+    "id": "10a86db5-7f96-35cb-83c3-4912877b7eb7",
+    "name": "Pulpwood, softwood, average, state or private dry forest, at forest road, INW",
+    "version": "00.00.007",
+    "sha256": "12aeb777f8379e4c3e3f1139df1b3f887ba51508dd5387d72b3976c87bab33f1"
+  },
+  {
+    "id": "fa501a68-3e1d-3ef1-84a0-48eead282f98",
+    "name": "Pulpwood, softwd, avg, state or private moist forest, at forest rd, INW",
+    "version": "00.00.007",
+    "sha256": "6f6edaac7c30b73b9a4fcca5607fc5ee2b3b4bcff4bcf554a6514f79bf6fbf39"
+  },
+  {
+    "id": "20b49008-b007-3407-95b0-92b796e5e2c0",
+    "name": "Pulpwood, softwood, national forest, average, at forest road, INW",
+    "version": "00.00.007",
+    "sha256": "fe1d54641cf7be80f79a894b9774bdd98a13d44a18478aa14e56efedaea48abf"
+  },
+  {
+    "id": "1975f735-687a-39ea-96e7-e890e5a5bb51",
+    "name": "Ethanol, denatured, mixed feedstocks, at conversion facility, 2022",
+    "version": "00.00.008",
+    "sha256": "0a202e2f899158e811fbf390db4448e99f8f63dd9e00ab807558e4c47648352c"
+  },
+  {
+    "id": "6023a2bf-2d42-348b-bee7-caae15319edb",
+    "name": "Electricity, bauxite mining regions",
+    "version": "00.00.006",
+    "sha256": "1f2be0edb4286c3d9c55620778ac813eefd7ae09683c653829bc0fd4668232c7"
+  },
+  {
+    "id": "fa379f16-c09a-4e70-8595-45c69162215c",
+    "name": "Electricity, natural gas, at power plant",
+    "version": "00.00.009",
+    "sha256": "f7ef15deab247a14c90c701fb95ad2f418949cff86303f7bd5b02028cfd93662"
+  },
+  {
+    "id": "4b3de918-4d30-3184-bdaa-60d8575c5af4",
+    "name": "Electricity, diesel, at power plant",
+    "version": "00.00.004",
+    "sha256": "3580293746bd7f1a2e35bfd8fca67537f4f072ebd32c13b2a20504ad02877660"
+  },
+  {
+    "id": "2b091e0d-d0de-31a1-89db-3f51a9c5cf12",
+    "name": "Electricity, nuclear, at power plant",
+    "version": "00.00.004",
+    "sha256": "ad90f131bd907a88cae761b5bcfac26b597616881676985ae64696b5eec461eb"
+  },
+  {
+    "id": "ac54bc7d-5db5-3b4f-9175-5dd02f678312",
+    "name": "Steel, billets, at plant",
+    "version": "00.02.018",
+    "sha256": "71d24eedda6f76fdda5046611e05da04ec480a33ba01ac237a37ae38d8387813"
+  },
+  {
+    "id": "874dc726-50f1-300b-958f-9335fd1c53cd",
+    "name": "White mineral oil, at plant",
+    "version": "00.00.011",
+    "sha256": "736296613550dbeb5534ed7f9e12f2e9138ad36791c4c41e7a3336a95168f80c"
+  },
+  {
+    "id": "98d423fc-789a-42d0-b961-18a96bc6491c",
+    "name": "Lubricant feedstock, at refinery",
+    "version": "00.00.012",
+    "sha256": "35e0e09fe46e08097c682917257947a91c523b5d03de1733d5a479d0d0fb10e1"
+  },
+  {
+    "id": "363e9105-a6ea-356e-a537-06c9facf5b14",
+    "name": "Aniline; at plant",
+    "version": "02.01.003",
+    "sha256": "b762a3a7c80638c2dff890a9b167438078286242e5315a340cb1b1a6717e2116"
+  },
+  {
+    "id": "0b5a14e7-bf8f-380e-87de-af92dd61e21b",
+    "name": "Bark, hardwood, average, at forest road,  NE-NC",
+    "version": "00.00.008",
+    "sha256": "6b08093b0ab662d0808e1e296640fdf21e8769b85c6847f136197e993ebc86f8"
+  },
+  {
+    "id": "0879167f-989b-3e3b-b9c5-3c07ea0a3f8e",
+    "name": "Ethanol, denatured, corn stover, biochemical",
+    "version": "00.00.013",
+    "sha256": "6e5fab79af7c08cac2746bceeb10f0dc9b77123e98c257c02031f0a667c7ca71"
+  },
+  {
+    "id": "0898854c-e38f-3d23-880f-f8da7d65ca0c",
+    "name": "Ethanol, denatured, switchgrass, biochemical",
+    "version": "00.00.012",
+    "sha256": "aa487d260afed60b50e77a015e6b072e2c5fb7881403c7b634c419c4cf35b8a5"
+  },
+  {
+    "id": "d9cadd89-4203-375a-903a-63197cd29c6a",
+    "name": "Ethanol, denatured, forest residues, thermochem",
+    "version": "00.00.020",
+    "sha256": "9b225a5f12621195fed238621c2d0ef9643be797017ca270df3d142a310d26a9"
+  },
+  {
+    "id": "8e3e47ea-ed49-329e-8931-29115917bc81",
+    "name": "Ethanol, denatured, corn dry mill",
+    "version": "00.00.016",
+    "sha256": "f7d72422ceefcfd47c90fbf52432c31f7aab5b2f8f61fe626ec2176856fe04f0"
+  },
+  {
+    "id": "7aa8e2ff-0e2f-3e6c-b168-ec5168b4be6a",
+    "name": "Ethanol, denatured, wheat straw, biochemical",
+    "version": "00.00.015",
+    "sha256": "4d396b028abbed22fbf735316b4f8436bb53693e24f69740f3ce50c83bcc2812"
+  },
+  {
+    "id": "a626a6b9-3877-36f5-ac98-f5844b6348dd",
+    "name": "Fuel grade uranium, at regional storage",
+    "version": "00.00.008",
+    "sha256": "1284ebe2120dc06bd008b95764a47922c1abcba6f3b640dbec58a37f0efd1cc3"
+  },
+  {
+    "id": "9ee66dd5-dcc9-3e94-9da3-3a7cc6cddeb3",
+    "name": "Hydrochloric acid, without water, in 30% solution state, at plant ",
+    "version": "00.00.014",
+    "sha256": "3ae27456f9a6d6b939f56ddb2ccebd603b14e7967ad51deaff2c11a0caf2fddf"
+  },
+  {
+    "id": "5198d618-7bc8-3639-b4a1-de71d6d5f49a",
+    "name": "Combustion, wet wood residue, AP-42",
+    "version": "00.00.004",
+    "sha256": "16f808715877ecc89eb9a7898d53977f0cfed89d14b2db28cbca0685daf1a846"
+  },
+  {
+    "id": "442ab5b5-32f4-4de0-9aa7-fa989b0579af",
+    "name": "Chemicals organic, at plant Bridge; USLCI to USEEIO",
+    "version": "00.00.002",
+    "sha256": "dbac509d1b3dfd9b782277c7e84417231762d84a0f6fd91eff636ac65d1e4f73"
+  },
+  {
+    "id": "68f4d066-5043-34cc-a944-5041732f8e7a",
+    "name": "Corn steep liquor",
+    "version": "00.00.009",
+    "sha256": "a0da43ac6522aa43c90a5869df303bff7e50fb1150d68c3b27bc6e9e4e27b949"
+  },
+  {
+    "id": "3dd59224-ecba-3fb1-a2c9-9c01947b08b1",
+    "name": "Enzyme, Cellulase, Novozyme Celluclast",
+    "version": "00.00.005",
+    "sha256": "5a76eb94ebbb87c31b7882d1cfd2959cd252caf3d5a130e695ce98e3a419da76"
+  },
+  {
+    "id": "8ccbedef-d726-3fae-a848-a6d41aeab5a4",
+    "name": "Corn stover, at conversion plant, 2022",
+    "version": "00.00.003",
+    "sha256": "80caba80e494699715388ee474e8fd2f2e02b5c7565062482b745689652254c9"
+  },
+  {
+    "id": "1654c887-0b9c-3434-b9c1-371e3adb3dde",
+    "name": "Phosphorous fertilizer, production mix, at plant",
+    "version": "00.00.005",
+    "sha256": "fb82253ca102e98485ac35721430b288462942875800f339cf22f54b2af2b495"
+  },
+  {
+    "id": "4c6f7612-c4b8-36d1-803a-8fb067b1b319",
+    "name": "Switchgrass, at conversion plant, 2022",
+    "version": "00.00.007",
+    "sha256": "dd7e36d245e1f3c1f21f5e1cb29c4fa79d17dcd1ab1a1f3f34ddce26edaa9b49"
+  },
+  {
+    "id": "6c96a609-cd7e-3f19-a151-27deb823d3e4",
+    "name": "Combustion, dry wood residue, AP-42",
+    "version": "00.00.004",
+    "sha256": "8b946149207a5d1a8ab479cc317ae3b4fa1b20dcfdcdc941c3e3ae5eca5686ad"
+  },
+  {
+    "id": "0853441e-0b11-30f6-87c5-00ca7df78e21",
+    "name": "Heat, indirect, heated zones, softwood, plywood veneer drying, AP-42",
+    "version": "00.00.004",
+    "sha256": "3b9980ffe3cbb092540efca9146585e66cb6b076c6f911174a2c8b07396bfc2f"
+  },
+  {
+    "id": "2753c5de-221b-369a-84de-689d354b8b2d",
+    "name": "Forest residue, preprocessed, at conversion facility",
+    "version": "00.00.005",
+    "sha256": "2e15428be2ec0027d40a957a894a1c5ee54c10576869897c779e6c26c7602959"
+  },
+  {
+    "id": "a1c4409b-9e9e-4f3b-bec0-f319fef1e3c5",
+    "name": "Zeolite Bridge; USLCI to USEEIO",
+    "version": "00.00.004",
+    "sha256": "ce9b283a16c04038ef0a684b1d83b82ca20f2719579632249fc6b2278de06818"
+  },
+  {
+    "id": "309485bd-a13b-4539-a23c-036c0b23b4f5",
+    "name": "Silica sand Bridge; USLCI to USEEIO",
+    "version": "00.00.005",
+    "sha256": "bda2c30b9142a8fde4917e463017b6a98df3e8f6773edacde4e0f6a345fac443"
+  },
+  {
+    "id": "88aee762-4aa0-301f-b579-cca5d636aa0d",
+    "name": "Soybean oil, crude, degummed, at plant",
+    "version": "00.00.010",
+    "sha256": "92486108c9ee1f21214b4f3bdeba217b41c61c9cbfc91a74cad2cb406db50d95"
+  },
+  {
+    "id": "5a782377-d196-304c-baec-fea559a4dfe2",
+    "name": "Enzyme, Glucoamylase, Novozyme Spirizyme",
+    "version": "00.00.005",
+    "sha256": "9b5c2806da7d5afed921c5f0f27c2df798242f30f190de39dc6d0c84dbffc132"
+  },
+  {
+    "id": "097d2f2c-d006-3b27-84de-98e6a364e411",
+    "name": "Corn wet mill, gluten drying, AP-42",
+    "version": "00.00.004",
+    "sha256": "914f98e4fafd5e227fda994493d1c54317685d63341c63b5d4a55be755a15ccd"
+  },
+  {
+    "id": "c7fec37a-a023-3563-84d6-fa33a6b19f2f",
+    "name": "Corn wet milling, operations, AP-42",
+    "version": "00.00.004",
+    "sha256": "c5a6c1a1551fa397e9ef0d8e1ec9a77070772c90160362b6aa3d05fd6e6ab662"
+  },
+  {
+    "id": "9109d57c-8234-3569-a2e6-0e4671b524d9",
+    "name": "Corn grain, at conversion plant, 2022",
+    "version": "00.00.004",
+    "sha256": "a0454bb9be3ae73fbd219252dc1249dbad9e41c97a670d157409ccba8ca741f1"
+  },
+  {
+    "id": "8504caf4-bea5-3ab2-b8f9-d4861e819f92",
+    "name": "Corn grain, harvested and stored",
+    "version": "00.00.003",
+    "sha256": "79ca908512d9d9e7a4212b0892521b28391abac51f7c9d3db96b147591667748"
+  },
+  {
+    "id": "391ccf45-4b61-37e9-a2f2-3e19afc0d4ef",
+    "name": "Enzyme, Alpha-amylase, Novozyme Liquozyme",
+    "version": "00.00.005",
+    "sha256": "cbd2b778690aa64a974aad07de5d0ec49000ab643b74fe10c18f4156c7419588"
+  },
+  {
+    "id": "dacaeae9-aeed-3366-912d-6a31de09eef9",
+    "name": "Nitrogen fertilizer, production mix, at plant",
+    "version": "00.00.010",
+    "sha256": "45980461a73f935a729afd2a92bcec6b649f6927c4038b55b681127211bb4442"
+  },
+  {
+    "id": "f002e825-5cb6-3949-be51-863c7fe5d5da",
+    "name": "Wheat straw, at conversion plant, 2022",
+    "version": "00.00.004",
+    "sha256": "631c75c88a2171d4dfbe30ff98737f99c264c73919b312878b4ef4956d8d1059"
+  },
+  {
+    "id": "4be84642-28cb-3508-9189-d8afcec42d92",
+    "name": "Corn stover, ground and stored",
+    "version": "00.00.010",
+    "sha256": "09918547a41b2740eda0040cf73a4ab657d4d80d0ca7c2f95ec5919493270569"
+  },
+  {
+    "id": "25b4ad17-ccd9-36ff-8ed5-4ad7b4814ae3",
+    "name": "Switchgrass, ground and stored, 2022",
+    "version": "00.00.011",
+    "sha256": "24c3872a1cf447f9c6be4de6f9f14669ec3b253d5b4af7ebe598c5e0b6cd35cf"
+  },
+  {
+    "id": "96087256-d181-30c8-ae17-f25e1f0eab0c",
+    "name": "Forest residue, dried, stored",
+    "version": "00.00.006",
+    "sha256": "87b4bcb949e51a66c5991595679d61293d04b2ff1241a52dd3b83f58732ca182"
+  },
+  {
+    "id": "956b53b9-dd05-35ae-a072-69f1f6906290",
+    "name": "Soybean grains, at field",
+    "version": "00.00.012",
+    "sha256": "4dc748cfe92d63978ef736f6226017ee544ce5f202b7a071bc591ecb6ec37cf8"
+  },
+  {
+    "id": "6e19103d-ed39-3b71-8c51-0c65b85002a4",
+    "name": "Corn, decomposition, 15.5% moisture",
+    "version": "00.00.003",
+    "sha256": "f40841e8450627ebcc907d40fb0e95905c019522b9bfdfc105b0ee3f18bff8d8"
+  },
+  {
+    "id": "1cbbcd09-ea17-3d9b-bc34-2cf42efe26ba",
+    "name": "Corn, production, average, US, 2022",
+    "version": "00.00.010",
+    "sha256": "c28b7f81461ead2dcda8b6547f4d371af82404e1f1022dbe8ccb988ec7c6cd82"
+  },
+  {
+    "id": "4e38a874-76e2-3c20-bc6a-eea62883ebaa",
+    "name": "Winter wheat straw, ground and stored",
+    "version": "00.00.007",
+    "sha256": "e04d678d3293bc9f7fb88bf2e5667a06976b58bb85872416cd5ff4e9e340cb6f"
+  },
+  {
+    "id": "3cfa52ac-c3d6-3ce2-b8f4-211bf63d7088",
+    "name": "Spring wheat straw, ground and stored, 2022",
+    "version": "00.00.009",
+    "sha256": "ee69aac69386ce3e3e0d2f18ebf215486b2f04f4608e44dfb34bb69bd0b9b6bc"
+  },
+  {
+    "id": "c0138d7e-3eac-3b37-b27a-58c9d5a2d1cf",
+    "name": "Corn stover, carted",
+    "version": "00.00.005",
+    "sha256": "660cc4f8b4e3a29486976fff0994909f03da8d32e2da5b6b49d6f78daa136998"
+  },
+  {
+    "id": "ccc739c2-aec2-30d0-a1f1-a7ae81af1e8a",
+    "name": "Grinding",
+    "version": "00.00.004",
+    "sha256": "3a4c5e66a880e52ee5f456a2d2deb753bc9308cacfad72ef44792deb89631282"
+  },
+  {
+    "id": "727c4049-41db-3645-a4f9-af66fa92dee0",
+    "name": "Switchgrass, carted, 2022",
+    "version": "00.00.004",
+    "sha256": "f092a95e2ac4d785d2a65dffe1d2d5d89e184cbec9f7d7e08a873b2b30756736"
+  },
+  {
+    "id": "630010e9-27e1-3ea8-9845-b87832b536f4",
+    "name": "Harvest, corn, single pass",
+    "version": "00.00.006",
+    "sha256": "5513d78f23e307d6497fac5c7a907360457b6cd1dbe3bd5ab6214f5a85f09d96"
+  },
+  {
+    "id": "24ccf5c5-25f5-35da-bead-5edf4e14cdc1",
+    "name": "Fertilizer, corn, 2022",
+    "version": "00.00.008",
+    "sha256": "c9d32a7c6d6c55bb97564cafd9037fff47d4b9988829d837a8d2602203e89468"
+  },
+  {
+    "id": "d5b0f333-d1b3-3ba1-8111-b036b67589f8",
+    "name": "Tillage, conservation, corn production",
+    "version": "00.00.004",
+    "sha256": "a1dc20173c3f83e311cb2c6d85e8ce176d903da64c84cd1bcc0dff8a5ca63aa5"
+  },
+  {
+    "id": "d7a673e2-dc84-31fa-b15c-a03a6863c8dd",
+    "name": "Tillage, intensive, corn production",
+    "version": "00.00.003",
+    "sha256": "5aaee441401010c960d042099893657de743e282a4edbf837048593418bf34a4"
+  },
+  {
+    "id": "d67585e4-5ddf-3722-a4cc-0b7576a05b07",
+    "name": "Tillage, reduce, corn production",
+    "version": "00.00.003",
+    "sha256": "522a29c228568111bf8603afc8d05f3f20a8a618dc1e857c13ce1e9e3843b633"
+  },
+  {
+    "id": "2813d2f3-6813-34d8-b47b-b464f390bcaf",
+    "name": "Pesticide, corn, 2022",
+    "version": "00.00.004",
+    "sha256": "19dc0d76a2e80be5e06356fdf3c4bc1381f9d0cfcb48f5c66a7b88881c5da31d"
+  },
+  {
+    "id": "3221bb51-ac5f-36b7-a5c4-d81a5c65ccf0",
+    "name": "Winter wheat straw, carted",
+    "version": "00.00.005",
+    "sha256": "7de4d3d9cf2835e3996d7354e024eca713e027b3adf68d8f17519044ac394b33"
+  },
+  {
+    "id": "99898750-1f41-3c25-8ee0-aaae4b6697d0",
+    "name": "Spring wheat straw, carted, 2022",
+    "version": "00.00.005",
+    "sha256": "f6fc3c82738b9a72b3cd20ff3d360b8b13e069d4790a3c18454a457811d6475b"
+  },
+  {
+    "id": "4d09380a-6297-392c-b1bb-74534b4d3d8e",
+    "name": "Corn stover, production, average, US, 2022",
+    "version": "00.00.009",
+    "sha256": "185abad301f2638e6a66bf6344c34d7383f22ca0b996a8691fb2dda1af4d7601"
+  },
+  {
+    "id": "f04300c5-ea44-3525-b6ab-c4b8b27b127e",
+    "name": "Switchgrass, harvested, wet",
+    "version": "00.00.004",
+    "sha256": "b8e63f4015b912b36dce477f0e5936dfaea7877b0f8c521a456debeb4062689a"
+  },
+  {
+    "id": "55d8bf4f-025a-3927-bb96-235d37ba79fc",
+    "name": "Lime, agricultural, corn production",
+    "version": "00.00.005",
+    "sha256": "05413ac933f54f5005e8782eb1afb7a8d841061afa24e4f0cb2d513caf13ecd3"
+  },
+  {
+    "id": "a3b730ce-d657-383b-b485-e5d082d96424",
+    "name": "Winter wheat straw, production, average, US, 2022",
+    "version": "00.00.004",
+    "sha256": "1103746fa3411f08b09dd22f26ffdaa1859c0bfcb1eff68123343840af0cd60c"
+  },
+  {
+    "id": "238589f8-deaf-3218-84e9-703a9bd7f3e1",
+    "name": "Fertilizer, stover, 2022",
+    "version": "00.00.007",
+    "sha256": "38a97475db258f867dcd5a4ccb3f6de61b78ea1cbe4fe926f4ea5104f45a9dd3"
+  },
+  {
+    "id": "9c36427d-76de-314c-bfca-4d714b71c9a5",
+    "name": "Switchgrass, production, US, 2022",
+    "version": "00.00.009",
+    "sha256": "5eee9da0ad701fe762ff1b73d15849b285e1588f542b0c3b5a72acd927501382"
+  },
+  {
+    "id": "d397dd56-dc53-37a1-956b-5da3aaa81a6f",
+    "name": "Transport, single unit truck, gasoline powered",
+    "version": "01.00.001",
+    "sha256": "01a3e7fd0f5b2987b02521f87a40a906835d4f456d730e592935fc709d4854ef"
+  },
+  {
+    "id": "14b0912f-fb6d-321d-8f42-0ea35918689f",
+    "name": "Fertilizer, winter wheat straw, 2022",
+    "version": "00.00.007",
+    "sha256": "f9fa538eee33fa5bea881bfb3a30340acc0ee94591b597960573186986ac1d8e"
+  },
+  {
+    "id": "786522bf-e3a2-3db6-8794-a8d26a370faa",
+    "name": "Harvest, wheat, single pass",
+    "version": "00.00.003",
+    "sha256": "d2440bed734f01198e496aca78d0569aa68cb608c21a5c3279456d70230b3141"
+  },
+  {
+    "id": "a941c19b-ed3f-34a9-a91b-ee31e2d6ac18",
+    "name": "Planting, switchgrass, 2022",
+    "version": "00.00.005",
+    "sha256": "1f08256541132db8c4e3dd2009e10926dc4fa008b79198a2459764a399a733fd"
+  },
+  {
+    "id": "a40d4e00-67c2-3f4c-8c2b-1c67a28e6c5c",
+    "name": "Pesticide, switchgrass",
+    "version": "00.00.006",
+    "sha256": "c3b901741c79d2eb8a12af2e028cfeb5c742fdae1180a3ad7fe5eb6f178ec240"
+  },
+  {
+    "id": "fef4bce7-747e-30a8-adea-c11de716b08b",
+    "name": "Fertilizer, switchgrass, 2022",
+    "version": "00.00.007",
+    "sha256": "bb56fbe80f9952b150660d3688a9972a97290c1f81ff00b2db90d9052e3c2338"
+  },
+  {
+    "id": "tg:copper",
+    "name": "copper production;cathode copper; flash smelting approach;sulfide ore",
+    "version": "00.01.005",
+    "sha256": "e21c56d875558f36d00a6c77c78405d69644ae3a588edfda84e07c25e1353a75"
+  }
+]

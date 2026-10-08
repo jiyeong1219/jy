@@ -1,3 +1,5 @@
+> **가정 기반 추가 시나리오 (2026-10-08):** 사용자 승인에 따라 대체 재료와 제조 전력을 가정해 실제 A/B/C 계산을 실행했습니다. 결과는 **3종 온실가스 GWP100 소계 약 4.43 kg CO₂-eq/주전자**이며, 공급망·온실가스 누락 때문에 전체 공장 출하 GWP 총량이 아닙니다. [HTML 결과 보고서](results/report.html), [계산 결과·전체 가정](results/assumption-screening/results.json). 재현: `python scripts/screening_lca.py` 후 `python scripts/build_screening_report.py`. 아래의 미계산 상태는 이전 독립 기준 준비 실행의 기록입니다. 원본 다운로드가 먼저 필요하며, 추정치의 정확도나 보수성을 보장하지 않습니다.
+
 # BC1 1 L electric kettle: cradle-to-gate LCA
 
 **Status: data integration and matrix implementation validated; kettle GWP100 not
